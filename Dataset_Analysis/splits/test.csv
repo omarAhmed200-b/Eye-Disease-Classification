@@ -1,0 +1,2369 @@
+filename,dataset,unified_label,original_label
+ODIR_3234_left.jpg,ODIR5K,Normal,N
+ODIR_541_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_2 (20).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2239_right.jpg,ODIR5K,Cataract,C
+ODIR_2168_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02096.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_600_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01414.png,APTOS2019,Normal,No DR
+ODIR_861_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00402.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1411_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2358_right.jpg,ODIR5K,Normal,N
+ODIR_1237_right.jpg,ODIR5K,Glaucoma,G
+ODIR_4036_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1297_right.jpg,ODIR5K,Glaucoma,G
+ODIR_705_left.jpg,ODIR5K,Others,O
+ODIR_4619_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_252_left.jpg,ODIR5K,Others,O
+ODIR_1503_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02605.png,APTOS2019,Normal,No DR
+APTOS_image_00530.png,APTOS2019,Normal,No DR
+ODIR_132_left.jpg,ODIR5K,Others,O
+ODIR_1470_left.jpg,ODIR5K,Glaucoma,G
+ODIR_3211_right.jpg,ODIR5K,Normal,N
+ODIR_654_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2732_right.jpg,ODIR5K,Normal,N
+ODIR_2953_left.jpg,ODIR5K,Normal,N
+ODIR_278_right.jpg,ODIR5K,Others,O
+APTOS_image_1 (91).png,APTOS2019,Normal,No DR
+ORIGA_625.jpg,ORIGA,Normal,0
+ODIR_4221_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_778_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4531_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2983_left.jpg,ODIR5K,Normal,N
+APTOS_image_01544.png,APTOS2019,Normal,No DR
+ACRIMA_Im615_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_4125_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01342.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2964_right.jpg,ODIR5K,Normal,N
+ODIR_3205_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (33).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (60).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_827_left.jpg,ODIR5K,Others,O
+ORIGA_402.jpg,ORIGA,Glaucoma,1
+ODIR_3022_right.jpg,ODIR5K,Normal,N
+APTOS_image_01152.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1240_left.jpg,ODIR5K,Others,O
+APTOS_image_02710.png,APTOS2019,Normal,No DR
+ODIR_2742_right.jpg,ODIR5K,Normal,N
+ODIR_2665_right.jpg,ODIR5K,Normal,N
+APTOS_image_01838.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2610_right.jpg,ODIR5K,Normal,N
+APTOS_image_5 (3).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1686_right.jpg,ODIR5K,Myopia,M
+ODIR_2590_right.jpg,ODIR5K,Normal,N
+ODIR_1054_right.jpg,ODIR5K,Normal,N
+ODIR_1260_left.jpg,ODIR5K,Glaucoma,G
+ODIR_3086_left.jpg,ODIR5K,Normal,N
+ODIR_1095_left.jpg,ODIR5K,Others,O
+ODIR_942_left.jpg,ODIR5K,Others,O
+ODIR_1163_left.jpg,ODIR5K,Others,O
+ODIR_2500_left.jpg,ODIR5K,Normal,N
+ODIR_3943_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4050_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_168.jpg,ORIGA,Glaucoma,1
+ODIR_518_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (31).png,APTOS2019,Normal,No DR
+APTOS_image_02926.png,APTOS2019,Normal,No DR
+ODIR_1197_right.jpg,ODIR5K,AMD,A
+APTOS_image_00624.png,APTOS2019,Normal,No DR
+ODIR_1212_right.jpg,ODIR5K,Glaucoma,G
+ORIGA_601.jpg,ORIGA,Glaucoma,1
+ODIR_1345_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00941.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1987_left.jpg,ODIR5K,Cataract,C
+ODIR_1232_right.jpg,ODIR5K,Glaucoma,G
+ODIR_103_left.jpg,ODIR5K,Cataract,C
+ODIR_4133_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4297_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4158_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_323_left.jpg,ODIR5K,Hypertension,H
+APTOS_image_00389.png,APTOS2019,Normal,No DR
+ODIR_702_right.jpg,ODIR5K,Others,O
+ODIR_1091_right.jpg,ODIR5K,AMD,A
+ACRIMA_Im161_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3012_left.jpg,ODIR5K,Normal,N
+APTOS_image_00434.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_503_right.jpg,ODIR5K,Others,O
+ACRIMA_Im317_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_994_right.jpg,ODIR5K,Others,O
+APTOS_image_02700.png,APTOS2019,Normal,No DR
+ODIR_3334_left.jpg,ODIR5K,Normal,N
+APTOS_image_00904.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3949_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1411_right.jpg,ODIR5K,Glaucoma,G
+ACRIMA_Im402_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im690_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2331_right.jpg,ODIR5K,Normal,N
+ODIR_1397_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_385.jpg,ORIGA,Glaucoma,1
+ODIR_566_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1266_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1801_right.jpg,ODIR5K,AMD,A
+ODIR_1260_right.jpg,ODIR5K,Glaucoma,G
+ODIR_600_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01093.png,APTOS2019,Normal,No DR
+ODIR_4008_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2509_left.jpg,ODIR5K,Normal,N
+APTOS_image_4 (13).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3087_left.jpg,ODIR5K,Normal,N
+ODIR_2557_left.jpg,ODIR5K,Normal,N
+ODIR_3335_right.jpg,ODIR5K,Normal,N
+APTOS_image_02819.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_916_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im650_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_4609_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01747.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_252.jpg,ORIGA,Normal,0
+ODIR_1345_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2634_left.jpg,ODIR5K,Normal,N
+ODIR_707_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00711.png,APTOS2019,Normal,No DR
+ACRIMA_Im438_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1207_left.jpg,ODIR5K,Others,O
+ACRIMA_Im335_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00294.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2937_right.jpg,ODIR5K,Normal,N
+APTOS_image_2 (55).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4365_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2477_left.jpg,ODIR5K,Normal,N
+APTOS_image_3 (19).png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_152.jpg,ORIGA,Normal,0
+ACRIMA_Im210_ACRIMA.jpg,ACRIMA,Normal,Normal
+ACRIMA_Im068_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2526_right.jpg,ODIR5K,Normal,N
+ODIR_4593_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_696_right.jpg,ODIR5K,Others,O
+ODIR_885_left.jpg,ODIR5K,AMD,A
+ODIR_4141_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_720_right.jpg,ODIR5K,Hypertension,H
+APTOS_image_02444.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1211_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2643_right.jpg,ODIR5K,Normal,N
+ODIR_3261_left.jpg,ODIR5K,Normal,N
+ODIR_618_left.jpg,ODIR5K,Others,O
+ODIR_3448_right.jpg,ODIR5K,Normal,N
+ODIR_52_right.jpg,ODIR5K,Others,O
+APTOS_image_00580.png,APTOS2019,Normal,No DR
+ODIR_2218_left.jpg,ODIR5K,Cataract,C
+ORIGA_103.jpg,ORIGA,Normal,0
+ODIR_1114_left.jpg,ODIR5K,Others,O
+APTOS_image_1 (11).png,APTOS2019,Normal,No DR
+APTOS_image_1 (99).png,APTOS2019,Normal,No DR
+ODIR_1271_right.jpg,ODIR5K,Glaucoma,G
+ORIGA_456.jpg,ORIGA,Normal,0
+APTOS_image_01509.png,APTOS2019,Normal,No DR
+ODIR_1409_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4003_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00805.png,APTOS2019,Normal,No DR
+ODIR_2404_right.jpg,ODIR5K,Normal,N
+ODIR_1942_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02450.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4512_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01615.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2780_left.jpg,ODIR5K,Normal,N
+APTOS_image_00747.png,APTOS2019,Normal,No DR
+APTOS_image_01704.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1642_right.jpg,ODIR5K,Myopia,M
+ACRIMA_Im428_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00494.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_161_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_342.jpg,ORIGA,Normal,0
+ORIGA_527.jpg,ORIGA,Normal,0
+APTOS_image_00095.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01796.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_474.jpg,ORIGA,Glaucoma,1
+ODIR_2210_left.jpg,ODIR5K,Cataract,C
+ODIR_242_left.jpg,ODIR5K,Others,O
+APTOS_image_02517.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_2 (65).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02479.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02312.png,APTOS2019,Normal,No DR
+ODIR_4433_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im689_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_678_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (101).png,APTOS2019,Normal,No DR
+ODIR_1618_right.jpg,ODIR5K,Myopia,M
+ORIGA_377.jpg,ORIGA,Glaucoma,1
+ODIR_4616_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02190.png,APTOS2019,Normal,No DR
+ODIR_4193_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02252.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3128_left.jpg,ODIR5K,Normal,N
+APTOS_image_01042.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00638.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1265_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1205_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1531_left.jpg,ODIR5K,Myopia,M
+APTOS_image_3 (119).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1215_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_3 (128).png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im573_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1084_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01327.png,APTOS2019,Normal,No DR
+ODIR_4435_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_169.jpg,ORIGA,Normal,0
+APTOS_image_00979.png,APTOS2019,Normal,No DR
+ODIR_2534_right.jpg,ODIR5K,Normal,N
+ODIR_2551_right.jpg,ODIR5K,Normal,N
+ODIR_2168_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_241.jpg,ORIGA,Glaucoma,1
+ODIR_4547_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_795_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02804.png,APTOS2019,Normal,No DR
+ODIR_393_right.jpg,ODIR5K,Others,O
+ODIR_587_left.jpg,ODIR5K,Others,O
+APTOS_image_00482.png,APTOS2019,Normal,No DR
+ODIR_3209_left.jpg,ODIR5K,Normal,N
+ODIR_1942_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2791_left.jpg,ODIR5K,Normal,N
+ODIR_1101_left.jpg,ODIR5K,Cataract,C
+ODIR_2524_right.jpg,ODIR5K,Normal,N
+ODIR_954_left.jpg,ODIR5K,Others,O
+ODIR_4297_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00438.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2167_right.jpg,ODIR5K,Cataract,C
+APTOS_image_2 (37).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01852.png,APTOS2019,Normal,No DR
+ODIR_979_right.jpg,ODIR5K,Others,O
+ODIR_3320_right.jpg,ODIR5K,Normal,N
+ODIR_4110_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (171).png,APTOS2019,Normal,No DR
+ACRIMA_Im089_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00222.png,APTOS2019,Normal,No DR
+APTOS_image_01990.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4096_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_125_right.jpg,ODIR5K,Others,O
+ODIR_159_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4629_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00275.png,APTOS2019,Normal,No DR
+ORIGA_202.jpg,ORIGA,Normal,0
+ODIR_125_left.jpg,ODIR5K,Others,O
+ODIR_4059_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1873_left.jpg,ODIR5K,AMD,A
+ODIR_1817_left.jpg,ODIR5K,AMD,A
+ODIR_2432_left.jpg,ODIR5K,Normal,N
+ODIR_309_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im373_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ORIGA_063.jpg,ORIGA,Normal,0
+ACRIMA_Im442_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01703.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4256_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (63).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1170_left.jpg,ODIR5K,Others,O
+ODIR_2964_left.jpg,ODIR5K,Normal,N
+APTOS_image_00224.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02798.png,APTOS2019,Normal,No DR
+ODIR_4471_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1663_left.jpg,ODIR5K,Myopia,M
+ODIR_4227_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4623_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_332.jpg,ORIGA,Normal,0
+APTOS_image_00461.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02059.png,APTOS2019,Normal,No DR
+ORIGA_572.jpg,ORIGA,Glaucoma,1
+ODIR_686_left.jpg,ODIR5K,Hypertension,H
+ODIR_170_left.jpg,ODIR5K,Others,O
+ACRIMA_Im602_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_4026_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_171_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1173_right.jpg,ODIR5K,Others,O
+APTOS_image_02594.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_953_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01450.png,APTOS2019,Normal,No DR
+ACRIMA_Im265_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00688.png,APTOS2019,Normal,No DR
+APTOS_image_00374.png,APTOS2019,Normal,No DR
+ODIR_443_right.jpg,ODIR5K,Others,O
+ODIR_1581_left.jpg,ODIR5K,Myopia,M
+APTOS_image_00414.png,APTOS2019,Normal,No DR
+ODIR_998_left.jpg,ODIR5K,AMD,A
+ORIGA_210.jpg,ORIGA,Normal,0
+ODIR_2791_right.jpg,ODIR5K,Normal,N
+ODIR_1531_right.jpg,ODIR5K,Myopia,M
+ORIGA_315.jpg,ORIGA,Normal,0
+ODIR_126_right.jpg,ODIR5K,AMD,A
+ODIR_3063_right.jpg,ODIR5K,Normal,N
+ORIGA_578.jpg,ORIGA,Glaucoma,1
+APTOS_image_02423.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02001.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02177.png,APTOS2019,Normal,No DR
+APTOS_image_00298.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_812_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01645.png,APTOS2019,Normal,No DR
+APTOS_image_01410.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1456_left.jpg,ODIR5K,Cataract,C
+APTOS_image_01005.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im238_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_02618.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2063_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4260_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_830_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1334_right.jpg,ODIR5K,Glaucoma,G
+ORIGA_390.jpg,ORIGA,Glaucoma,1
+APTOS_image_01574.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3259_right.jpg,ODIR5K,Normal,N
+ODIR_3107_right.jpg,ODIR5K,Normal,N
+ODIR_628_left.jpg,ODIR5K,Others,O
+APTOS_image_00309.png,APTOS2019,Normal,No DR
+ODIR_2837_right.jpg,ODIR5K,Normal,N
+ODIR_2573_left.jpg,ODIR5K,Normal,N
+ODIR_203_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3418_right.jpg,ODIR5K,Normal,N
+APTOS_image_02889.png,APTOS2019,Normal,No DR
+ODIR_266_right.jpg,ODIR5K,AMD,A
+ORIGA_281.jpg,ORIGA,Normal,0
+APTOS_image_01982.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_812_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2336_right.jpg,ODIR5K,Normal,N
+APTOS_image_02671.png,APTOS2019,Normal,No DR
+ODIR_1618_left.jpg,ODIR5K,Myopia,M
+ORIGA_606.jpg,ORIGA,Normal,0
+ODIR_3992_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im286_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2933_right.jpg,ODIR5K,Normal,N
+APTOS_image_02590.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1834_right.jpg,ODIR5K,AMD,A
+ODIR_607_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_5 (19).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1617_left.jpg,ODIR5K,Myopia,M
+APTOS_image_00909.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_1 (66).png,APTOS2019,Normal,No DR
+ACRIMA_Im676_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ORIGA_576.jpg,ORIGA,Normal,0
+ODIR_38_left.jpg,ODIR5K,Others,O
+APTOS_image_00121.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00773.png,APTOS2019,Normal,No DR
+ODIR_3008_left.jpg,ODIR5K,Normal,N
+ORIGA_326.jpg,ORIGA,Normal,0
+ODIR_2699_right.jpg,ODIR5K,Normal,N
+ODIR_1414_left.jpg,ODIR5K,Glaucoma,G
+ODIR_175_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2917_right.jpg,ODIR5K,Normal,N
+ODIR_2820_right.jpg,ODIR5K,Normal,N
+APTOS_image_00782.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4110_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00488.png,APTOS2019,Normal,No DR
+ODIR_496_left.jpg,ODIR5K,Others,O
+ODIR_1129_left.jpg,ODIR5K,Others,O
+ACRIMA_Im001_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4050_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4304_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_618_right.jpg,ODIR5K,Others,O
+ODIR_2870_left.jpg,ODIR5K,Normal,N
+ODIR_3119_right.jpg,ODIR5K,Normal,N
+ODIR_834_right.jpg,ODIR5K,Others,O
+APTOS_image_01871.png,APTOS2019,Normal,No DR
+ODIR_4560_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3283_left.jpg,ODIR5K,Normal,N
+APTOS_image_02811.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02302.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_4 (55).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (152).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3448_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im474_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00233.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_655_right.jpg,ODIR5K,Others,O
+ODIR_1253_right.jpg,ODIR5K,Normal,N
+ODIR_323_right.jpg,ODIR5K,Hypertension,H
+ODIR_46_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1277_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2488_left.jpg,ODIR5K,Normal,N
+ORIGA_546.jpg,ORIGA,Normal,0
+ODIR_1154_left.jpg,ODIR5K,AMD,A
+ODIR_2852_left.jpg,ODIR5K,Normal,N
+ODIR_563_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_810_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im273_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_02311.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01281.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00834.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00300.png,APTOS2019,Normal,No DR
+ODIR_4243_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1868_right.jpg,ODIR5K,AMD,A
+ODIR_311_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01053.png,APTOS2019,Normal,No DR
+APTOS_image_2 (13).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_1 (54).png,APTOS2019,Normal,No DR
+APTOS_image_02653.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_659_right.jpg,ODIR5K,Others,O
+ODIR_3041_left.jpg,ODIR5K,Normal,N
+ODIR_840_right.jpg,ODIR5K,Others,O
+ACRIMA_Im256_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2063_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1038_right.jpg,ODIR5K,Others,O
+ODIR_3322_left.jpg,ODIR5K,Normal,N
+ODIR_2780_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im248_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_515_right.jpg,ODIR5K,Others,O
+ACRIMA_Im333_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1559_right.jpg,ODIR5K,Myopia,M
+APTOS_image_01449.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_537_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_489.jpg,ORIGA,Normal,0
+ODIR_2361_right.jpg,ODIR5K,Normal,N
+APTOS_image_02468.png,APTOS2019,Normal,No DR
+APTOS_image_01330.png,APTOS2019,Normal,No DR
+ODIR_830_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1173_left.jpg,ODIR5K,Others,O
+APTOS_image_02215.png,APTOS2019,Normal,No DR
+APTOS_image_02662.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_007.jpg,ORIGA,Normal,0
+APTOS_image_00672.png,APTOS2019,Normal,No DR
+ODIR_4348_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1869_left.jpg,ODIR5K,AMD,A
+ODIR_518_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_310.jpg,ORIGA,Normal,0
+ACRIMA_Im604_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00697.png,APTOS2019,Normal,No DR
+ODIR_2812_right.jpg,ODIR5K,Normal,N
+ODIR_4364_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02794.png,APTOS2019,Normal,No DR
+ODIR_297_left.jpg,ODIR5K,Others,O
+APTOS_image_02882.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00660.png,APTOS2019,Normal,No DR
+ODIR_790_right.jpg,ODIR5K,Hypertension,H
+ODIR_4167_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4374_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2559_left.jpg,ODIR5K,Normal,N
+ODIR_4456_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00170.png,APTOS2019,Normal,No DR
+ODIR_1412_left.jpg,ODIR5K,Glaucoma,G
+ODIR_4120_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4271_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4471_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00551.png,APTOS2019,Normal,No DR
+ODIR_994_left.jpg,ODIR5K,Others,O
+ODIR_4027_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2751_left.jpg,ODIR5K,Normal,N
+ODIR_96_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3174_right.jpg,ODIR5K,Normal,N
+APTOS_image_01952.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3340_left.jpg,ODIR5K,Normal,N
+ODIR_579_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_511_left.jpg,ODIR5K,Others,O
+ODIR_1143_left.jpg,ODIR5K,Others,O
+ODIR_2630_right.jpg,ODIR5K,Normal,N
+ODIR_298_left.jpg,ODIR5K,Others,O
+ODIR_795_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02906.png,APTOS2019,Normal,No DR
+APTOS_image_01308.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02886.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4609_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2901_left.jpg,ODIR5K,Normal,N
+ODIR_2389_left.jpg,ODIR5K,Normal,N
+ODIR_774_right.jpg,ODIR5K,Others,O
+ACRIMA_Im484_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01857.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_979_left.jpg,ODIR5K,Others,O
+APTOS_image_2 (32).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01918.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_400.jpg,ORIGA,Normal,0
+ODIR_2408_left.jpg,ODIR5K,Normal,N
+ODIR_1229_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02896.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02771.png,APTOS2019,Normal,No DR
+ODIR_4689_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02385.png,APTOS2019,Normal,No DR
+APTOS_image_00411.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1834_left.jpg,ODIR5K,AMD,A
+ODIR_804_left.jpg,ODIR5K,Others,O
+ODIR_3125_left.jpg,ODIR5K,Normal,N
+ODIR_1091_left.jpg,ODIR5K,AMD,A
+ODIR_4227_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_457_right.jpg,ODIR5K,Others,O
+ODIR_3251_left.jpg,ODIR5K,Normal,N
+ODIR_2432_right.jpg,ODIR5K,Normal,N
+ODIR_1154_right.jpg,ODIR5K,AMD,A
+APTOS_image_01390.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (11).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (50).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4594_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_156_right.jpg,ODIR5K,Others,O
+APTOS_image_00669.png,APTOS2019,Normal,No DR
+APTOS_image_3 (179).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02622.png,APTOS2019,Normal,No DR
+APTOS_image_00481.png,APTOS2019,Normal,No DR
+APTOS_image_02873.png,APTOS2019,Normal,No DR
+ACRIMA_Im461_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2156_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02030.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1256_left.jpg,ODIR5K,Glaucoma,G
+ODIR_655_left.jpg,ODIR5K,Others,O
+ODIR_4034_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im283_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2204_right.jpg,ODIR5K,Cataract,C
+ACRIMA_Im279_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3054_right.jpg,ODIR5K,Normal,N
+ODIR_3209_right.jpg,ODIR5K,Normal,N
+APTOS_image_00175.png,APTOS2019,Normal,No DR
+ACRIMA_Im662_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_869_left.jpg,ODIR5K,Others,O
+ODIR_2765_left.jpg,ODIR5K,Normal,N
+ODIR_1023_left.jpg,ODIR5K,Others,O
+ODIR_3944_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00910.png,APTOS2019,Normal,No DR
+ODIR_1503_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1578_right.jpg,ODIR5K,Myopia,M
+ODIR_827_right.jpg,ODIR5K,Others,O
+ODIR_4435_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4343_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_680_right.jpg,ODIR5K,Others,O
+ODIR_247_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2757_right.jpg,ODIR5K,Normal,N
+APTOS_image_01880.png,APTOS2019,Normal,No DR
+ODIR_3012_right.jpg,ODIR5K,Normal,N
+APTOS_image_00439.png,APTOS2019,Normal,No DR
+ODIR_537_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4199_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im468_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00818.png,APTOS2019,Normal,No DR
+APTOS_image_02569.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1349_right.jpg,ODIR5K,Myopia,M
+APTOS_image_1 (30).png,APTOS2019,Normal,No DR
+APTOS_image_1 (88).png,APTOS2019,Normal,No DR
+APTOS_image_00043.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02738.png,APTOS2019,Normal,No DR
+APTOS_image_3 (30).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2887_right.jpg,ODIR5K,Normal,N
+APTOS_image_02015.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01604.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_43_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01006.png,APTOS2019,Normal,No DR
+ODIR_3057_right.jpg,ODIR5K,Normal,N
+APTOS_image_00948.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01382.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (198).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00523.png,APTOS2019,Normal,No DR
+APTOS_image_02854.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3259_left.jpg,ODIR5K,Normal,N
+ODIR_842_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_942_right.jpg,ODIR5K,Others,O
+ODIR_840_left.jpg,ODIR5K,Others,O
+ODIR_3004_right.jpg,ODIR5K,Normal,N
+ODIR_1987_right.jpg,ODIR5K,Cataract,C
+ODIR_2390_left.jpg,ODIR5K,Normal,N
+ODIR_4539_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2755_left.jpg,ODIR5K,Normal,N
+ODIR_2638_right.jpg,ODIR5K,Normal,N
+APTOS_image_02243.png,APTOS2019,Normal,No DR
+ODIR_2514_right.jpg,ODIR5K,Normal,N
+APTOS_image_01393.png,APTOS2019,Normal,No DR
+ODIR_4221_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3155_left.jpg,ODIR5K,Normal,N
+ODIR_27_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4522_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1371_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1095_right.jpg,ODIR5K,Others,O
+ODIR_2150_left.jpg,ODIR5K,Cataract,C
+ODIR_846_right.jpg,ODIR5K,Others,O
+ORIGA_433.jpg,ORIGA,Glaucoma,1
+ODIR_2041_right.jpg,ODIR5K,Glaucoma,G
+ACRIMA_Im227_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_01112.png,APTOS2019,Normal,No DR
+APTOS_image_2 (10).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1038_left.jpg,ODIR5K,Others,O
+ODIR_2505_left.jpg,ODIR5K,Normal,N
+ORIGA_164.jpg,ORIGA,Normal,0
+APTOS_image_01379.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02927.png,APTOS2019,Normal,No DR
+ODIR_2480_left.jpg,ODIR5K,Normal,N
+ODIR_752_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01812.png,APTOS2019,Normal,No DR
+ODIR_1640_left.jpg,ODIR5K,Myopia,M
+APTOS_image_02074.png,APTOS2019,Normal,No DR
+ODIR_3270_left.jpg,ODIR5K,Normal,N
+ODIR_3347_right.jpg,ODIR5K,Normal,N
+APTOS_image_00605.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_23_left.jpg,ODIR5K,Hypertension,H
+ODIR_850_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_838_left.jpg,ODIR5K,Others,O
+ODIR_1163_right.jpg,ODIR5K,Others,O
+ODIR_256_right.jpg,ODIR5K,Others,O
+APTOS_image_00364.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_298_right.jpg,ODIR5K,Others,O
+ODIR_4594_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1663_right.jpg,ODIR5K,Myopia,M
+APTOS_image_01726.png,APTOS2019,Normal,No DR
+APTOS_image_00665.png,APTOS2019,Normal,No DR
+ODIR_282_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2388_right.jpg,ODIR5K,Normal,N
+ODIR_4616_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02567.png,APTOS2019,Normal,No DR
+ORIGA_235.jpg,ORIGA,Normal,0
+ODIR_4014_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2980_right.jpg,ODIR5K,Normal,N
+ODIR_2644_left.jpg,ODIR5K,Normal,N
+ODIR_3045_right.jpg,ODIR5K,Normal,N
+ODIR_2515_right.jpg,ODIR5K,Normal,N
+ODIR_2383_left.jpg,ODIR5K,Normal,N
+ODIR_3200_left.jpg,ODIR5K,Normal,N
+ODIR_2237_right.jpg,ODIR5K,Cataract,C
+ODIR_1492_left.jpg,ODIR5K,Glaucoma,G
+ODIR_209_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02787.png,APTOS2019,Normal,No DR
+APTOS_image_02025.png,APTOS2019,Normal,No DR
+APTOS_image_01701.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02143.png,APTOS2019,Normal,No DR
+APTOS_image_2 (25).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2682_right.jpg,ODIR5K,Normal,N
+ODIR_1453_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01692.png,APTOS2019,Normal,No DR
+APTOS_image_00174.png,APTOS2019,Normal,No DR
+ODIR_1297_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2634_right.jpg,ODIR5K,Normal,N
+APTOS_image_01185.png,APTOS2019,Normal,No DR
+ODIR_4593_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2831_right.jpg,ODIR5K,Normal,N
+ODIR_170_right.jpg,ODIR5K,Others,O
+ODIR_155_right.jpg,ODIR5K,Others,O
+ODIR_4275_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1999_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2684_left.jpg,ODIR5K,Normal,N
+ODIR_4090_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4106_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1308_left.jpg,ODIR5K,Others,O
+ODIR_2517_left.jpg,ODIR5K,Normal,N
+ODIR_4528_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2933_left.jpg,ODIR5K,Normal,N
+ODIR_3953_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_583_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2667_right.jpg,ODIR5K,Normal,N
+APTOS_image_01218.png,APTOS2019,Normal,No DR
+ODIR_1515_right.jpg,ODIR5K,Glaucoma,G
+ODIR_1031_right.jpg,ODIR5K,Hypertension,H
+ODIR_1415_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2477_right.jpg,ODIR5K,Normal,N
+APTOS_image_01828.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_575_left.jpg,ODIR5K,Others,O
+ODIR_1526_right.jpg,ODIR5K,Myopia,M
+ODIR_3197_left.jpg,ODIR5K,Normal,N
+ODIR_1606_left.jpg,ODIR5K,Myopia,M
+ODIR_1377_right.jpg,ODIR5K,Glaucoma,G
+ODIR_841_left.jpg,ODIR5K,Others,O
+APTOS_image_00343.png,APTOS2019,Normal,No DR
+APTOS_image_3 (87).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_147_right.jpg,ODIR5K,Others,O
+ODIR_4280_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2149_left.jpg,ODIR5K,Cataract,C
+ODIR_586_right.jpg,ODIR5K,Others,O
+APTOS_image_02574.png,APTOS2019,Normal,No DR
+ODIR_2210_right.jpg,ODIR5K,Cataract,C
+ODIR_3283_right.jpg,ODIR5K,Normal,N
+ODIR_457_left.jpg,ODIR5K,Others,O
+APTOS_image_02908.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4256_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2187_right.jpg,ODIR5K,Cataract,C
+ODIR_713_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1334_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02309.png,APTOS2019,Normal,No DR
+APTOS_image_00306.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01182.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im302_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_5 (17).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_39_left.jpg,ODIR5K,Myopia,M
+ODIR_4156_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im409_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1036_right.jpg,ODIR5K,Others,O
+ODIR_1442_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2475_right.jpg,ODIR5K,Normal,N
+APTOS_image_4 (24).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_188_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4431_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3218_right.jpg,ODIR5K,Normal,N
+ODIR_4318_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_764_left.jpg,ODIR5K,Others,O
+ODIR_2997_left.jpg,ODIR5K,Normal,N
+APTOS_image_1 (14).png,APTOS2019,Normal,No DR
+ODIR_2870_right.jpg,ODIR5K,Normal,N
+ODIR_2576_left.jpg,ODIR5K,Normal,N
+ODIR_2881_left.jpg,ODIR5K,Normal,N
+APTOS_image_00893.png,APTOS2019,Normal,No DR
+ODIR_1166_right.jpg,ODIR5K,Others,O
+ODIR_3112_right.jpg,ODIR5K,Normal,N
+APTOS_image_02476.png,APTOS2019,Normal,No DR
+APTOS_image_3 (15).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1231_left.jpg,ODIR5K,Glaucoma,G
+ODIR_179_left.jpg,ODIR5K,Hypertension,H
+APTOS_image_01008.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_71_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2824_left.jpg,ODIR5K,Normal,N
+ODIR_2836_left.jpg,ODIR5K,Normal,N
+ORIGA_361.jpg,ORIGA,Normal,0
+ODIR_1036_left.jpg,ODIR5K,Others,O
+ODIR_644_left.jpg,ODIR5K,Others,O
+ODIR_3132_right.jpg,ODIR5K,Normal,N
+ODIR_3951_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2192_left.jpg,ODIR5K,Cataract,C
+ODIR_4496_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_838_right.jpg,ODIR5K,Others,O
+ODIR_587_right.jpg,ODIR5K,Others,O
+ODIR_2950_right.jpg,ODIR5K,Normal,N
+APTOS_image_02278.png,APTOS2019,Normal,No DR
+APTOS_image_00707.png,APTOS2019,Normal,No DR
+ODIR_2755_right.jpg,ODIR5K,Normal,N
+ODIR_3978_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01237.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00473.png,APTOS2019,Normal,No DR
+APTOS_image_00361.png,APTOS2019,Normal,No DR
+APTOS_image_00527.png,APTOS2019,Normal,No DR
+APTOS_image_3 (90).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1266_right.jpg,ODIR5K,Glaucoma,G
+ORIGA_189.jpg,ORIGA,Normal,0
+ODIR_777_right.jpg,ODIR5K,Hypertension,H
+APTOS_image_02646.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_628_right.jpg,ODIR5K,Others,O
+ODIR_2967_right.jpg,ODIR5K,Normal,N
+ODIR_1549_right.jpg,ODIR5K,Myopia,M
+ODIR_1101_right.jpg,ODIR5K,Cataract,C
+APTOS_image_02401.png,APTOS2019,Normal,No DR
+ODIR_2369_right.jpg,ODIR5K,Normal,N
+ODIR_1589_right.jpg,ODIR5K,Myopia,M
+ODIR_3179_right.jpg,ODIR5K,Normal,N
+APTOS_image_01652.png,APTOS2019,Normal,No DR
+APTOS_image_01512.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4621_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2164_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3115_left.jpg,ODIR5K,Normal,N
+ODIR_1213_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2421_right.jpg,ODIR5K,Normal,N
+APTOS_image_00578.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im329_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_3 (137).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00077.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4614_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_145.jpg,ORIGA,Normal,0
+ODIR_103_right.jpg,ODIR5K,Cataract,C
+APTOS_image_00050.png,APTOS2019,Normal,No DR
+APTOS_image_02913.png,APTOS2019,Normal,No DR
+ODIR_825_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (99).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1600_left.jpg,ODIR5K,Myopia,M
+APTOS_image_3 (52).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_2 (64).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01063.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_573.jpg,ORIGA,Normal,0
+ORIGA_085.jpg,ORIGA,Normal,0
+APTOS_image_00990.png,APTOS2019,Normal,No DR
+ODIR_1200_left.jpg,ODIR5K,Others,O
+APTOS_image_02343.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02271.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1062_right.jpg,ODIR5K,Cataract,C
+ODIR_4100_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1415_left.jpg,ODIR5K,Glaucoma,G
+ODIR_54_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2434_right.jpg,ODIR5K,Normal,N
+ODIR_2393_left.jpg,ODIR5K,Normal,N
+APTOS_image_02695.png,APTOS2019,Normal,No DR
+ODIR_3328_right.jpg,ODIR5K,Normal,N
+ODIR_3312_left.jpg,ODIR5K,Normal,N
+APTOS_image_02447.png,APTOS2019,Normal,No DR
+APTOS_image_01314.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im213_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_1 (100).png,APTOS2019,Normal,No DR
+APTOS_image_1 (102).png,APTOS2019,Normal,No DR
+ODIR_4556_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_917_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1515_left.jpg,ODIR5K,Glaucoma,G
+ODIR_4213_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2174_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02828.png,APTOS2019,Normal,No DR
+ODIR_3067_right.jpg,ODIR5K,Normal,N
+ODIR_953_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_221_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3188_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (201).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00742.png,APTOS2019,Normal,No DR
+ODIR_2553_right.jpg,ODIR5K,Normal,N
+ODIR_726_right.jpg,ODIR5K,Cataract,C
+APTOS_image_01015.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2398_left.jpg,ODIR5K,Normal,N
+ODIR_2474_left.jpg,ODIR5K,Normal,N
+APTOS_image_00969.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1540_right.jpg,ODIR5K,Myopia,M
+APTOS_image_00802.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_1 (77).png,APTOS2019,Normal,No DR
+APTOS_image_01943.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3329_left.jpg,ODIR5K,Normal,N
+ODIR_3312_right.jpg,ODIR5K,Normal,N
+APTOS_image_1 (119).png,APTOS2019,Normal,No DR
+ODIR_833_left.jpg,ODIR5K,Others,O
+ODIR_2515_left.jpg,ODIR5K,Normal,N
+ODIR_3423_right.jpg,ODIR5K,Normal,N
+ODIR_4014_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2955_left.jpg,ODIR5K,Normal,N
+ODIR_848_right.jpg,ODIR5K,Others,O
+APTOS_image_01394.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1219_right.jpg,ODIR5K,Myopia,M
+ODIR_1621_right.jpg,ODIR5K,Myopia,M
+ODIR_511_right.jpg,ODIR5K,Others,O
+ODIR_2836_right.jpg,ODIR5K,Normal,N
+APTOS_image_02751.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_82_right.jpg,ODIR5K,Others,O
+ODIR_307_right.jpg,ODIR5K,Others,O
+ORIGA_422.jpg,ORIGA,Normal,0
+ODIR_1068_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3279_left.jpg,ODIR5K,Normal,N
+ODIR_3022_left.jpg,ODIR5K,Normal,N
+ODIR_90_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1237_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2576_right.jpg,ODIR5K,Normal,N
+ODIR_2839_left.jpg,ODIR5K,Normal,N
+ODIR_884_right.jpg,ODIR5K,Others,O
+ACRIMA_Im075_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_564_left.jpg,ODIR5K,AMD,A
+APTOS_image_1 (164).png,APTOS2019,Normal,No DR
+APTOS_image_3 (144).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1879_left.jpg,ODIR5K,AMD,A
+ODIR_865_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im259_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_759_left.jpg,ODIR5K,Hypertension,H
+ODIR_3364_left.jpg,ODIR5K,Normal,N
+APTOS_image_02521.png,APTOS2019,Normal,No DR
+ODIR_1573_right.jpg,ODIR5K,Myopia,M
+ODIR_4547_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00363.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02382.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2832_right.jpg,ODIR5K,Normal,N
+ODIR_2873_left.jpg,ODIR5K,Normal,N
+APTOS_image_00556.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_343.jpg,ORIGA,Normal,0
+ACRIMA_Im427_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_4386_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (56).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4584_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im670_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2937_left.jpg,ODIR5K,Normal,N
+ODIR_1552_left.jpg,ODIR5K,Myopia,M
+ACRIMA_Im614_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02668.png,APTOS2019,Normal,No DR
+APTOS_image_01610.png,APTOS2019,Normal,No DR
+APTOS_image_02279.png,APTOS2019,Normal,No DR
+ODIR_2779_left.jpg,ODIR5K,Normal,N
+APTOS_image_1 (45).png,APTOS2019,Normal,No DR
+ODIR_3005_left.jpg,ODIR5K,Normal,N
+ODIR_128_right.jpg,ODIR5K,Others,O
+ODIR_2453_left.jpg,ODIR5K,Normal,N
+ODIR_4280_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01884.png,APTOS2019,Normal,No DR
+ODIR_4587_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1330_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2403_left.jpg,ODIR5K,Normal,N
+ODIR_4201_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00295.png,APTOS2019,Normal,No DR
+ORIGA_308.jpg,ORIGA,Normal,0
+APTOS_image_02419.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01578.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_992_right.jpg,ODIR5K,AMD,A
+ODIR_2856_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (126).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_841_right.jpg,ODIR5K,Others,O
+ACRIMA_Im232_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00044.png,APTOS2019,Normal,No DR
+ACRIMA_Im460_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1581_right.jpg,ODIR5K,Myopia,M
+ODIR_3008_right.jpg,ODIR5K,Normal,N
+ODIR_2451_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im143_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4156_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_432_left.jpg,ODIR5K,Others,O
+APTOS_image_01087.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02527.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02484.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3142_left.jpg,ODIR5K,Normal,N
+APTOS_image_00006.png,APTOS2019,Normal,No DR
+ODIR_4214_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_855_left.jpg,ODIR5K,AMD,A
+ODIR_3334_right.jpg,ODIR5K,Normal,N
+ODIR_3128_right.jpg,ODIR5K,Normal,N
+ORIGA_639.jpg,ORIGA,Normal,0
+ORIGA_345.jpg,ORIGA,Glaucoma,1
+ODIR_3087_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im525_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3132_left.jpg,ODIR5K,Normal,N
+ODIR_4614_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_916_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00388.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1079_left.jpg,ODIR5K,Others,O
+ODIR_1589_left.jpg,ODIR5K,Myopia,M
+ODIR_2237_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02259.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4386_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_822_left.jpg,ODIR5K,Others,O
+ACRIMA_Im058_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_01038.png,APTOS2019,Normal,No DR
+ODIR_3951_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01334.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_364_right.jpg,ODIR5K,Others,O
+ODIR_3949_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_9_left.jpg,ODIR5K,Others,O
+ODIR_4008_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1571_left.jpg,ODIR5K,Myopia,M
+APTOS_image_1 (76).png,APTOS2019,Normal,No DR
+ODIR_909_right.jpg,ODIR5K,Others,O
+ODIR_970_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_753_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1031_left.jpg,ODIR5K,Hypertension,H
+ACRIMA_Im330_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02725.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1205_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_764_right.jpg,ODIR5K,Others,O
+APTOS_image_02580.png,APTOS2019,Normal,No DR
+APTOS_image_00443.png,APTOS2019,Normal,No DR
+ODIR_693_left.jpg,ODIR5K,Others,O
+ODIR_3047_left.jpg,ODIR5K,Normal,N
+APTOS_image_01279.png,APTOS2019,Normal,No DR
+ACRIMA_Im205_ACRIMA.jpg,ACRIMA,Normal,Normal
+ORIGA_512.jpg,ORIGA,Glaucoma,1
+ODIR_2887_left.jpg,ODIR5K,Normal,N
+APTOS_image_02862.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2839_right.jpg,ODIR5K,Normal,N
+ODIR_1652_right.jpg,ODIR5K,Myopia,M
+ODIR_1114_right.jpg,ODIR5K,Others,O
+ODIR_765_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02007.png,APTOS2019,Normal,No DR
+ODIR_2470_left.jpg,ODIR5K,Normal,N
+APTOS_image_02150.png,APTOS2019,Normal,No DR
+ODIR_702_left.jpg,ODIR5K,Others,O
+ODIR_1102_right.jpg,ODIR5K,Cataract,C
+APTOS_image_01541.png,APTOS2019,Normal,No DR
+APTOS_image_00691.png,APTOS2019,Normal,No DR
+APTOS_image_02292.png,APTOS2019,Normal,No DR
+ODIR_842_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (123).png,APTOS2019,Normal,No DR
+ODIR_2765_right.jpg,ODIR5K,Normal,N
+APTOS_image_00644.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1160_right.jpg,ODIR5K,Others,O
+APTOS_image_00428.png,APTOS2019,Normal,No DR
+APTOS_image_00147.png,APTOS2019,Normal,No DR
+APTOS_image_00142.png,APTOS2019,Normal,No DR
+ODIR_2338_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im538_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im439_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_938_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02379.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02572.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4159_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1409_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (144).png,APTOS2019,Normal,No DR
+ODIR_991_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_533_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4117_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_498_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3227_left.jpg,ODIR5K,Normal,N
+ODIR_3081_right.jpg,ODIR5K,Normal,N
+ODIR_3127_right.jpg,ODIR5K,Normal,N
+ODIR_2518_left.jpg,ODIR5K,Normal,N
+ODIR_538_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1817_right.jpg,ODIR5K,AMD,A
+ODIR_413_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_445_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3250_left.jpg,ODIR5K,Normal,N
+ODIR_765_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1716_left.jpg,ODIR5K,Myopia,M
+ODIR_1279_right.jpg,ODIR5K,Glaucoma,G
+ODIR_3380_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im008_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_01905.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1014_right.jpg,ODIR5K,Others,O
+ODIR_640_left.jpg,ODIR5K,Others,O
+ODIR_1612_right.jpg,ODIR5K,Myopia,M
+ODIR_1259_left.jpg,ODIR5K,Glaucoma,G
+ODIR_3039_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im289_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_1299_right.jpg,ODIR5K,Others,O
+ODIR_2573_right.jpg,ODIR5K,Normal,N
+ODIR_2192_right.jpg,ODIR5K,Cataract,C
+APTOS_image_02407.png,APTOS2019,Normal,No DR
+ODIR_353_left.jpg,ODIR5K,Others,O
+ODIR_1377_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1868_left.jpg,ODIR5K,AMD,A
+ODIR_887_left.jpg,ODIR5K,Others,O
+ODIR_2470_right.jpg,ODIR5K,Normal,N
+ODIR_4356_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00907.png,APTOS2019,Normal,No DR
+APTOS_image_00159.png,APTOS2019,Normal,No DR
+ODIR_3175_left.jpg,ODIR5K,Normal,N
+ODIR_3143_right.jpg,ODIR5K,Normal,N
+APTOS_image_01339.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02274.png,APTOS2019,Normal,No DR
+ODIR_2243_left.jpg,ODIR5K,Cataract,C
+ODIR_31_right.jpg,ODIR5K,Others,O
+ODIR_3410_right.jpg,ODIR5K,Normal,N
+ODIR_804_right.jpg,ODIR5K,Others,O
+ODIR_4247_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00413.png,APTOS2019,Normal,No DR
+APTOS_image_00840.png,APTOS2019,Normal,No DR
+APTOS_image_00897.png,APTOS2019,Normal,No DR
+APTOS_image_01978.png,APTOS2019,Normal,No DR
+ODIR_1549_left.jpg,ODIR5K,Myopia,M
+ODIR_2100_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3184_right.jpg,ODIR5K,Normal,N
+ODIR_4431_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1240_right.jpg,ODIR5K,Others,O
+ODIR_4096_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_575_right.jpg,ODIR5K,Others,O
+ORIGA_331.jpg,ORIGA,Normal,0
+APTOS_image_1 (158).png,APTOS2019,Normal,No DR
+APTOS_image_01648.png,APTOS2019,Normal,No DR
+ORIGA_547.jpg,ORIGA,Normal,0
+ACRIMA_Im594_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01874.png,APTOS2019,Normal,No DR
+ODIR_4115_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3000_left.jpg,ODIR5K,Normal,N
+APTOS_image_2 (49).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00342.png,APTOS2019,Normal,No DR
+ODIR_4260_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1606_right.jpg,ODIR5K,Myopia,M
+ODIR_4531_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im270_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3300_right.jpg,ODIR5K,Normal,N
+APTOS_image_01666.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3329_right.jpg,ODIR5K,Normal,N
+APTOS_image_1 (148).png,APTOS2019,Normal,No DR
+ORIGA_278.jpg,ORIGA,Glaucoma,1
+APTOS_image_02366.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2524_left.jpg,ODIR5K,Normal,N
+ODIR_774_left.jpg,ODIR5K,Others,O
+APTOS_image_01146.png,APTOS2019,Normal,No DR
+ODIR_2662_right.jpg,ODIR5K,Normal,N
+ODIR_252_right.jpg,ODIR5K,Others,O
+APTOS_image_02434.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_257_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02446.png,APTOS2019,Normal,No DR
+ODIR_4049_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3997_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00366.png,APTOS2019,Normal,No DR
+ORIGA_453.jpg,ORIGA,Normal,0
+ODIR_4428_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2247_left.jpg,ODIR5K,Cataract,C
+ODIR_171_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01601.png,APTOS2019,Normal,No DR
+APTOS_image_00978.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1265_right.jpg,ODIR5K,Glaucoma,G
+ORIGA_077.jpg,ORIGA,Normal,0
+ODIR_4199_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02306.png,APTOS2019,Normal,No DR
+ODIR_4231_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1085_right.jpg,ODIR5K,AMD,A
+ODIR_2408_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im183_ACRIMA.jpg,ACRIMA,Normal,Normal
+ORIGA_397.jpg,ORIGA,Normal,0
+APTOS_image_00228.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00772.png,APTOS2019,Normal,No DR
+ODIR_2389_right.jpg,ODIR5K,Normal,N
+ODIR_2514_left.jpg,ODIR5K,Normal,N
+APTOS_image_00588.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01802.png,APTOS2019,Normal,No DR
+ODIR_4231_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_393_left.jpg,ODIR5K,Others,O
+APTOS_image_1 (143).png,APTOS2019,Normal,No DR
+APTOS_image_02520.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2204_left.jpg,ODIR5K,Cataract,C
+ODIR_2526_left.jpg,ODIR5K,Normal,N
+APTOS_image_00184.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4243_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im593_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2218_right.jpg,ODIR5K,Cataract,C
+APTOS_image_02182.png,APTOS2019,Normal,No DR
+ODIR_2827_right.jpg,ODIR5K,Normal,N
+ODIR_2790_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im268_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4374_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00569.png,APTOS2019,Normal,No DR
+ODIR_3227_right.jpg,ODIR5K,Normal,N
+ODIR_488_right.jpg,ODIR5K,Others,O
+ODIR_2367_left.jpg,ODIR5K,Normal,N
+APTOS_image_00768.png,APTOS2019,Normal,No DR
+ODIR_47_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4557_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4523_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3006_right.jpg,ODIR5K,Normal,N
+ODIR_3107_left.jpg,ODIR5K,Normal,N
+APTOS_image_2 (43).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3278_left.jpg,ODIR5K,Normal,N
+APTOS_image_00685.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_95_right.jpg,ODIR5K,Glaucoma,G
+ODIR_3251_right.jpg,ODIR5K,Normal,N
+APTOS_image_1 (85).png,APTOS2019,Normal,No DR
+ODIR_4090_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3278_right.jpg,ODIR5K,Normal,N
+ODIR_1662_right.jpg,ODIR5K,Myopia,M
+APTOS_image_00798.png,APTOS2019,Normal,No DR
+APTOS_image_01180.png,APTOS2019,Normal,No DR
+ODIR_4027_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im673_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1295_right.jpg,ODIR5K,AMD,A
+ODIR_678_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1487_right.jpg,ODIR5K,Glaucoma,G
+ODIR_1378_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_336.jpg,ORIGA,Glaucoma,1
+ODIR_2338_left.jpg,ODIR5K,Normal,N
+APTOS_image_02039.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02621.png,APTOS2019,Normal,No DR
+ODIR_147_left.jpg,ODIR5K,Others,O
+ODIR_1869_right.jpg,ODIR5K,AMD,A
+APTOS_image_00504.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1612_left.jpg,ODIR5K,Myopia,M
+APTOS_image_02221.png,APTOS2019,Normal,No DR
+ODIR_2868_right.jpg,ODIR5K,Normal,N
+APTOS_image_01040.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2790_left.jpg,ODIR5K,Normal,N
+APTOS_image_00141.png,APTOS2019,Normal,No DR
+APTOS_image_01491.png,APTOS2019,Normal,No DR
+ODIR_4578_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00999.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00450.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2239_left.jpg,ODIR5K,Cataract,C
+ODIR_3054_left.jpg,ODIR5K,Normal,N
+ODIR_2390_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (54).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4220_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1362_right.jpg,ODIR5K,Glaucoma,G
+ODIR_186_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01764.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2820_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im165_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00819.png,APTOS2019,Normal,No DR
+ODIR_413_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2455_left.jpg,ODIR5K,Normal,N
+ODIR_875_right.jpg,ODIR5K,Others,O
+ODIR_22_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2873_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (125).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_5 (9).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2794_right.jpg,ODIR5K,Normal,N
+ODIR_1248_left.jpg,ODIR5K,Glaucoma,G
+ODIR_528_right.jpg,ODIR5K,Others,O
+ODIR_473_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1215_right.jpg,ODIR5K,Glaucoma,G
+ODIR_1287_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00120.png,APTOS2019,Normal,No DR
+ACRIMA_Im515_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3270_right.jpg,ODIR5K,Normal,N
+APTOS_image_01092.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (195).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02386.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01024.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (51).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00373.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_873_right.jpg,ODIR5K,Others,O
+ODIR_1211_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00694.png,APTOS2019,Normal,No DR
+ACRIMA_Im368_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2556_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im555_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3416_right.jpg,ODIR5K,Normal,N
+ODIR_209_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02702.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2457_right.jpg,ODIR5K,Normal,N
+APTOS_image_01911.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_130_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02814.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01830.png,APTOS2019,Normal,No DR
+ODIR_4653_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_281_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01727.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2983_right.jpg,ODIR5K,Normal,N
+APTOS_image_02692.png,APTOS2019,Normal,No DR
+ODIR_4645_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3030_right.jpg,ODIR5K,Normal,N
+ODIR_1600_right.jpg,ODIR5K,Myopia,M
+APTOS_image_01229.png,APTOS2019,Normal,No DR
+ODIR_35_right.jpg,ODIR5K,Myopia,M
+APTOS_image_02135.png,APTOS2019,Normal,No DR
+ACRIMA_Im699_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_801_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1166_left.jpg,ODIR5K,Others,O
+ODIR_4047_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2149_right.jpg,ODIR5K,Cataract,C
+ODIR_54_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2345_left.jpg,ODIR5K,Normal,N
+ODIR_2893_right.jpg,ODIR5K,Normal,N
+APTOS_image_00539.png,APTOS2019,Normal,No DR
+ODIR_611_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02752.png,APTOS2019,Normal,No DR
+ODIR_3423_left.jpg,ODIR5K,Normal,N
+ODIR_873_left.jpg,ODIR5K,Others,O
+ODIR_1526_left.jpg,ODIR5K,Myopia,M
+ODIR_3211_left.jpg,ODIR5K,Normal,N
+APTOS_image_2 (21).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_913_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_383_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00157.png,APTOS2019,Normal,No DR
+ODIR_3261_right.jpg,ODIR5K,Normal,N
+APTOS_image_02681.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2938_left.jpg,ODIR5K,Normal,N
+ODIR_3184_left.jpg,ODIR5K,Normal,N
+ODIR_433_right.jpg,ODIR5K,Others,O
+APTOS_image_01118.png,APTOS2019,Normal,No DR
+ACRIMA_Im389_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3017_left.jpg,ODIR5K,Normal,N
+APTOS_image_01599.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00107.png,APTOS2019,Normal,No DR
+APTOS_image_01174.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01691.png,APTOS2019,Normal,No DR
+APTOS_image_01022.png,APTOS2019,Normal,No DR
+APTOS_image_01789.png,APTOS2019,Normal,No DR
+APTOS_image_00229.png,APTOS2019,Normal,No DR
+APTOS_image_02486.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_649.jpg,ORIGA,Normal,0
+ODIR_4356_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01729.png,APTOS2019,Normal,No DR
+APTOS_image_01784.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00197.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2868_left.jpg,ODIR5K,Normal,N
+APTOS_image_00920.png,APTOS2019,Normal,No DR
+ODIR_924_left.jpg,ODIR5K,Others,O
+ACRIMA_Im066_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00049.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1039_right.jpg,ODIR5K,Others,O
+APTOS_image_1 (134).png,APTOS2019,Normal,No DR
+APTOS_image_00933.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_689_right.jpg,ODIR5K,Others,O
+APTOS_image_02153.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2856_left.jpg,ODIR5K,Normal,N
+APTOS_image_01127.png,APTOS2019,Normal,No DR
+ODIR_846_left.jpg,ODIR5K,Others,O
+ORIGA_146.jpg,ORIGA,Normal,0
+ODIR_4527_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2945_left.jpg,ODIR5K,Normal,N
+ODIR_2111_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02330.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1014_left.jpg,ODIR5K,Others,O
+ODIR_1540_left.jpg,ODIR5K,Myopia,M
+APTOS_image_02545.png,APTOS2019,Normal,No DR
+ODIR_2539_left.jpg,ODIR5K,Normal,N
+ODIR_2977_left.jpg,ODIR5K,Normal,N
+ORIGA_424.jpg,ORIGA,Glaucoma,1
+ODIR_4338_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2518_right.jpg,ODIR5K,Normal,N
+ODIR_2464_left.jpg,ODIR5K,Normal,N
+ODIR_3127_left.jpg,ODIR5K,Normal,N
+APTOS_image_02524.png,APTOS2019,Normal,No DR
+ODIR_3040_right.jpg,ODIR5K,Normal,N
+APTOS_image_02758.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_115.jpg,ORIGA,Normal,0
+APTOS_image_00208.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_310_left.jpg,ODIR5K,Others,O
+ODIR_2751_right.jpg,ODIR5K,Normal,N
+APTOS_image_02460.png,APTOS2019,Normal,No DR
+ODIR_3027_right.jpg,ODIR5K,Normal,N
+ODIR_954_right.jpg,ODIR5K,Others,O
+ODIR_3017_right.jpg,ODIR5K,Normal,N
+ODIR_2182_left.jpg,ODIR5K,Cataract,C
+ODIR_2548_right.jpg,ODIR5K,Normal,N
+ODIR_4388_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2980_left.jpg,ODIR5K,Normal,N
+ODIR_4117_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_375.jpg,ORIGA,Normal,0
+ODIR_364_left.jpg,ODIR5K,Others,O
+APTOS_image_01675.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00561.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_114.jpg,ORIGA,Normal,0
+APTOS_image_01949.png,APTOS2019,Normal,No DR
+APTOS_image_3 (2).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4271_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00796.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2243_right.jpg,ODIR5K,Cataract,C
+ODIR_3407_right.jpg,ODIR5K,Normal,N
+ODIR_4318_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2672_right.jpg,ODIR5K,Normal,N
+ODIR_26_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00604.png,APTOS2019,Normal,No DR
+ACRIMA_Im643_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2404_left.jpg,ODIR5K,Normal,N
+ODIR_1865_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00031.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_311_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2589_right.jpg,ODIR5K,Normal,N
+ODIR_865_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00314.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4250_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (93).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_31_left.jpg,ODIR5K,Others,O
+APTOS_image_00838.png,APTOS2019,Normal,No DR
+ODIR_611_right.jpg,ODIR5K,Cataract,C
+ORIGA_171.jpg,ORIGA,Glaucoma,1
+APTOS_image_01484.png,APTOS2019,Normal,No DR
+ODIR_3955_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00884.png,APTOS2019,Normal,No DR
+ODIR_4621_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2662_left.jpg,ODIR5K,Normal,N
+ODIR_1373_left.jpg,ODIR5K,Hypertension,H
+ODIR_1617_right.jpg,ODIR5K,Myopia,M
+ODIR_564_right.jpg,ODIR5K,AMD,A
+APTOS_image_00543.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_810_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2893_left.jpg,ODIR5K,Normal,N
+ORIGA_438.jpg,ORIGA,Normal,0
+APTOS_image_01388.png,APTOS2019,Normal,No DR
+ODIR_3300_left.jpg,ODIR5K,Normal,N
+ODIR_1470_right.jpg,ODIR5K,Glaucoma,G
+ODIR_443_left.jpg,ODIR5K,Others,O
+ODIR_1138_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2831_left.jpg,ODIR5K,Normal,N
+APTOS_image_02405.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1259_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_3 (4).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1492_right.jpg,ODIR5K,Glaucoma,G
+ODIR_4035_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1061_left.jpg,ODIR5K,Others,O
+ODIR_1573_left.jpg,ODIR5K,Myopia,M
+APTOS_image_00700.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01662.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00063.png,APTOS2019,Normal,No DR
+ODIR_2534_left.jpg,ODIR5K,Normal,N
+APTOS_image_02565.png,APTOS2019,Normal,No DR
+ODIR_3027_left.jpg,ODIR5K,Normal,N
+ODIR_4159_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02551.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2139_left.jpg,ODIR5K,Cataract,C
+ACRIMA_Im321_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_368_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00540.png,APTOS2019,Normal,No DR
+APTOS_image_01212.png,APTOS2019,Normal,No DR
+ODIR_1143_right.jpg,ODIR5K,Others,O
+ODIR_2500_right.jpg,ODIR5K,Normal,N
+ODIR_1716_right.jpg,ODIR5K,Myopia,M
+ODIR_4375_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_825_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1082_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_219_left.jpg,ODIR5K,Others,O
+APTOS_image_01355.png,APTOS2019,Normal,No DR
+APTOS_image_00185.png,APTOS2019,Normal,No DR
+ODIR_317_right.jpg,ODIR5K,Others,O
+ODIR_4653_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01202.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01216.png,APTOS2019,Normal,No DR
+ORIGA_124.jpg,ORIGA,Normal,0
+APTOS_image_00128.png,APTOS2019,Normal,No DR
+ODIR_2352_left.jpg,ODIR5K,Normal,N
+ODIR_4365_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_107.jpg,ORIGA,Normal,0
+ODIR_760_right.jpg,ODIR5K,Myopia,M
+APTOS_image_02246.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_2 (11).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2824_right.jpg,ODIR5K,Normal,N
+APTOS_image_00496.png,APTOS2019,Normal,No DR
+ODIR_4375_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im348_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02264.png,APTOS2019,Normal,No DR
+APTOS_image_3 (174).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1023_right.jpg,ODIR5K,Others,O
+ODIR_885_right.jpg,ODIR5K,AMD,A
+ORIGA_319.jpg,ORIGA,Normal,0
+APTOS_image_00277.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3284_left.jpg,ODIR5K,Normal,N
+ODIR_2806_left.jpg,ODIR5K,Normal,N
+ODIR_2457_left.jpg,ODIR5K,Normal,N
+ORIGA_294.jpg,ORIGA,Glaucoma,1
+ODIR_875_left.jpg,ODIR5K,Others,O
+ODIR_4488_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_861_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im138_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_27_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2771_right.jpg,ODIR5K,Normal,N
+ODIR_498_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_726_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02029.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01655.png,APTOS2019,Normal,No DR
+ODIR_2779_right.jpg,ODIR5K,Normal,N
+ODIR_720_left.jpg,ODIR5K,Hypertension,H
+ODIR_2590_left.jpg,ODIR5K,Normal,N
+ODIR_356_left.jpg,ODIR5K,Others,O
+ODIR_855_right.jpg,ODIR5K,AMD,A
+ODIR_2066_right.jpg,ODIR5K,Hypertension,H
+APTOS_image_02697.png,APTOS2019,Normal,No DR
+ORIGA_324.jpg,ORIGA,Normal,0
+ODIR_1519_left.jpg,ODIR5K,Myopia,M
+ODIR_356_right.jpg,ODIR5K,Others,O
+ODIR_281_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1412_right.jpg,ODIR5K,Glaucoma,G
+ODIR_642_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2345_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im691_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im693_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_869_right.jpg,ODIR5K,Others,O
+ODIR_4388_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (7).png,APTOS2019,Normal,No DR
+APTOS_image_4 (18).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2331_left.jpg,ODIR5K,Normal,N
+ODIR_2598_left.jpg,ODIR5K,Normal,N
+ODIR_563_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1552_right.jpg,ODIR5K,Myopia,M
+ODIR_2884_left.jpg,ODIR5K,Normal,N
+ODIR_1318_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_1 (23).png,APTOS2019,Normal,No DR
+APTOS_image_00658.png,APTOS2019,Normal,No DR
+ODIR_1989_right.jpg,ODIR5K,Hypertension,H
+ODIR_9_right.jpg,ODIR5K,Others,O
+APTOS_image_01858.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1246_right.jpg,ODIR5K,Glaucoma,G
+ODIR_4496_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_21_right.jpg,ODIR5K,Others,O
+APTOS_image_00399.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02107.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1468_right.jpg,ODIR5K,Cataract,C
+ODIR_654_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3153_right.jpg,ODIR5K,Normal,N
+ODIR_1453_left.jpg,ODIR5K,Glaucoma,G
+ODIR_689_left.jpg,ODIR5K,Others,O
+ODIR_2775_left.jpg,ODIR5K,Normal,N
+APTOS_image_02522.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3416_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im507_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01679.png,APTOS2019,Normal,No DR
+ODIR_2589_left.jpg,ODIR5K,Normal,N
+ODIR_4587_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_5 (30).png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_066.jpg,ORIGA,Normal,0
+ODIR_777_left.jpg,ODIR5K,Hypertension,H
+ODIR_2111_right.jpg,ODIR5K,Cataract,C
+APTOS_image_00959.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_127.jpg,ORIGA,Normal,0
+APTOS_image_00583.png,APTOS2019,Normal,No DR
+ODIR_848_left.jpg,ODIR5K,Others,O
+ODIR_4488_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02236.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2201_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1686_left.jpg,ODIR5K,Myopia,M
+ODIR_1160_left.jpg,ODIR5K,Others,O
+ODIR_1616_left.jpg,ODIR5K,Myopia,M
+APTOS_image_3 (170).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01715.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1836_left.jpg,ODIR5K,AMD,A
+APTOS_image_01173.png,APTOS2019,Normal,No DR
+ORIGA_419.jpg,ORIGA,Glaucoma,1
+ODIR_644_right.jpg,ODIR5K,Others,O
+APTOS_image_00930.png,APTOS2019,Normal,No DR
+ODIR_3438_right.jpg,ODIR5K,Normal,N
+APTOS_image_00186.png,APTOS2019,Normal,No DR
+ORIGA_242.jpg,ORIGA,Normal,0
+ODIR_159_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (58).png,APTOS2019,Normal,No DR
+ODIR_46_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4120_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_369_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1421_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2517_right.jpg,ODIR5K,Normal,N
+APTOS_image_00764.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_203_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4193_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im219_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_02125.png,APTOS2019,Normal,No DR
+APTOS_image_00599.png,APTOS2019,Normal,No DR
+APTOS_image_02198.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1271_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_175.jpg,ORIGA,Normal,0
+APTOS_image_00393.png,APTOS2019,Normal,No DR
+APTOS_image_3 (141).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_2 (45).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00236.png,APTOS2019,Normal,No DR
+ODIR_991_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2398_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im551_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3063_left.jpg,ODIR5K,Normal,N
+ODIR_3076_left.jpg,ODIR5K,Normal,N
+APTOS_image_02922.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4433_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im493_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ORIGA_254.jpg,ORIGA,Normal,0
+ODIR_2139_right.jpg,ODIR5K,Cataract,C
+ODIR_992_left.jpg,ODIR5K,AMD,A
+APTOS_image_02109.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4130_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_175_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_47_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (151).png,APTOS2019,Normal,No DR
+ODIR_1405_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2352_right.jpg,ODIR5K,Normal,N
+ODIR_130_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1971_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_834_left.jpg,ODIR5K,Others,O
+ODIR_2336_left.jpg,ODIR5K,Normal,N
+APTOS_image_3 (16).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1864_left.jpg,ODIR5K,Glaucoma,G
+ODIR_22_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4247_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2509_right.jpg,ODIR5K,Normal,N
+ODIR_3121_right.jpg,ODIR5K,Normal,N
+ODIR_890_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_122_right.jpg,ODIR5K,Others,O
+APTOS_image_3 (200).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_257_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_938_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3197_right.jpg,ODIR5K,Normal,N
+ODIR_680_left.jpg,ODIR5K,Others,O
+ODIR_607_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3361_left.jpg,ODIR5K,Normal,N
+APTOS_image_02130.png,APTOS2019,Normal,No DR
+APTOS_image_3 (186).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2488_right.jpg,ODIR5K,Normal,N
+ODIR_3236_left.jpg,ODIR5K,Normal,N
+APTOS_image_01137.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_069.jpg,ORIGA,Glaucoma,1
+APTOS_image_02539.png,APTOS2019,Normal,No DR
+ODIR_917_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1397_right.jpg,ODIR5K,Glaucoma,G
+ODIR_659_left.jpg,ODIR5K,Others,O
+ODIR_1989_left.jpg,ODIR5K,Hypertension,H
+ORIGA_460.jpg,ORIGA,Normal,0
+APTOS_image_00311.png,APTOS2019,Normal,No DR
+ODIR_1414_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_1 (53).png,APTOS2019,Normal,No DR
+ODIR_1640_right.jpg,ODIR5K,Myopia,M
+APTOS_image_02194.png,APTOS2019,Normal,No DR
+ORIGA_594.jpg,ORIGA,Normal,0
+ORIGA_525.jpg,ORIGA,Normal,0
+ODIR_3188_left.jpg,ODIR5K,Normal,N
+APTOS_image_02073.png,APTOS2019,Normal,No DR
+ODIR_152_left.jpg,ODIR5K,AMD,A
+APTOS_image_02770.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_231_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2146_left.jpg,ODIR5K,Cataract,C
+APTOS_image_01915.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01050.png,APTOS2019,Normal,No DR
+ODIR_790_left.jpg,ODIR5K,Hypertension,H
+APTOS_image_00984.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_970_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00987.png,APTOS2019,Normal,No DR
+ODIR_4677_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01736.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2598_right.jpg,ODIR5K,Normal,N
+ODIR_4047_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im163_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_278_left.jpg,ODIR5K,Others,O
+ODIR_96_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_309_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_583_left.jpg,ODIR5K,Glaucoma,G
+ACRIMA_Im502_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_128_left.jpg,ODIR5K,Others,O
+ODIR_1456_right.jpg,ODIR5K,Cataract,C
+ODIR_161_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_522.jpg,ORIGA,Normal,0
+ORIGA_329.jpg,ORIGA,Normal,0
+ORIGA_640.jpg,ORIGA,Glaucoma,1
+ACRIMA_Im337_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00601.png,APTOS2019,Normal,No DR
+ODIR_533_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_353_right.jpg,ODIR5K,Others,O
+ODIR_2775_right.jpg,ODIR5K,Normal,N
+ODIR_2494_left.jpg,ODIR5K,Normal,N
+ODIR_320_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_186_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (116).png,APTOS2019,Normal,No DR
+ODIR_2421_left.jpg,ODIR5K,Normal,N
+ODIR_1447_right.jpg,ODIR5K,Glaucoma,G
+ODIR_3047_right.jpg,ODIR5K,Normal,N
+APTOS_image_02286.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2977_right.jpg,ODIR5K,Normal,N
+APTOS_image_02806.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_473_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_698_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4428_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1213_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_3 (82).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2638_left.jpg,ODIR5K,Normal,N
+ODIR_4539_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im023_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_242_right.jpg,ODIR5K,Others,O
+ORIGA_638.jpg,ORIGA,Glaucoma,1
+ODIR_2511_right.jpg,ODIR5K,Normal,N
+ODIR_2383_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im575_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im641_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_253_left.jpg,ODIR5K,Others,O
+ODIR_1197_left.jpg,ODIR5K,AMD,A
+ODIR_173_left.jpg,ODIR5K,Others,O
+ODIR_1571_right.jpg,ODIR5K,Myopia,M
+APTOS_image_01106.png,APTOS2019,Normal,No DR
+ACRIMA_Im032_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4115_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2825_left.jpg,ODIR5K,Normal,N
+ODIR_4402_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00353.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02791.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01639.png,APTOS2019,Normal,No DR
+ODIR_2426_left.jpg,ODIR5K,Normal,N
+ODIR_2997_right.jpg,ODIR5K,Normal,N
+ODIR_1059_left.jpg,ODIR5K,Others,O
+ODIR_669_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_262.jpg,ORIGA,Normal,0
+ODIR_759_right.jpg,ODIR5K,Hypertension,H
+ODIR_4422_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02566.png,APTOS2019,Normal,No DR
+ODIR_291_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1200_right.jpg,ODIR5K,Others,O
+ODIR_2156_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_698_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im513_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im344_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02531.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_240_left.jpg,ODIR5K,Others,O
+APTOS_image_01296.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_71_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_439.jpg,ORIGA,Glaucoma,1
+ORIGA_388.jpg,ORIGA,Normal,0
+ODIR_1214_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_461.jpg,ORIGA,Normal,0
+ODIR_2334_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im620_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00886.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_0_left.jpg,ODIR5K,Cataract,C
+ACRIMA_Im466_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3250_right.jpg,ODIR5K,Normal,N
+ODIR_3268_left.jpg,ODIR5K,Normal,N
+APTOS_image_02557.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_188_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00830.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_174.jpg,ORIGA,Normal,0
+ODIR_2167_left.jpg,ODIR5K,Cataract,C
+APTOS_image_02268.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im610_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_3119_left.jpg,ODIR5K,Normal,N
+APTOS_image_02634.png,APTOS2019,Normal,No DR
+ODIR_2451_left.jpg,ODIR5K,Normal,N
+ORIGA_349.jpg,ORIGA,Glaucoma,1
+APTOS_image_02023.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1373_right.jpg,ODIR5K,Hypertension,H
+ACRIMA_Im041_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_1085_left.jpg,ODIR5K,AMD,A
+ODIR_1039_left.jpg,ODIR5K,Others,O
+ACRIMA_Im395_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01486.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_256_left.jpg,ODIR5K,Others,O
+APTOS_image_01249.png,APTOS2019,Normal,No DR
+APTOS_image_00702.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2196_left.jpg,ODIR5K,Cataract,C
+ACRIMA_Im472_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2548_left.jpg,ODIR5K,Normal,N
+ODIR_4133_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_155_left.jpg,ODIR5K,Others,O
+ODIR_4338_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2627_left.jpg,ODIR5K,Normal,N
+ORIGA_141.jpg,ORIGA,Normal,0
+ODIR_4213_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_640_right.jpg,ODIR5K,Others,O
+ODIR_369_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3218_left.jpg,ODIR5K,Normal,N
+ODIR_1016_right.jpg,ODIR5K,Others,O
+APTOS_image_01205.png,APTOS2019,Normal,No DR
+ODIR_3347_left.jpg,ODIR5K,Normal,N
+APTOS_image_2 (24).png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im247_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4233_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4214_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im634_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00310.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_23_right.jpg,ODIR5K,Hypertension,H
+ODIR_1214_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2241_left.jpg,ODIR5K,Cataract,C
+ODIR_707_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2742_left.jpg,ODIR5K,Normal,N
+APTOS_image_02745.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1059_right.jpg,ODIR5K,Others,O
+APTOS_image_02691.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00937.png,APTOS2019,Normal,No DR
+APTOS_image_01381.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2794_left.jpg,ODIR5K,Normal,N
+ODIR_2832_left.jpg,ODIR5K,Normal,N
+ODIR_2401_right.jpg,ODIR5K,Normal,N
+APTOS_image_01939.png,APTOS2019,Normal,No DR
+ODIR_1232_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_1 (65).png,APTOS2019,Normal,No DR
+ODIR_4100_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3438_left.jpg,ODIR5K,Normal,N
+ODIR_2914_left.jpg,ODIR5K,Normal,N
+ODIR_1308_right.jpg,ODIR5K,Others,O
+ODIR_2387_right.jpg,ODIR5K,Normal,N
+ODIR_95_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2667_left.jpg,ODIR5K,Normal,N
+ODIR_2367_right.jpg,ODIR5K,Normal,N
+ODIR_1442_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4034_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4456_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2212_right.jpg,ODIR5K,Cataract,C
+ORIGA_599.jpg,ORIGA,Normal,0
+APTOS_image_01075.png,APTOS2019,Normal,No DR
+ACRIMA_Im124_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_4584_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3361_right.jpg,ODIR5K,Normal,N
+ODIR_3076_right.jpg,ODIR5K,Normal,N
+ODIR_1016_left.jpg,ODIR5K,Others,O
+ODIR_2146_right.jpg,ODIR5K,Cataract,C
+ACRIMA_Im323_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im277_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_960_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2938_right.jpg,ODIR5K,Normal,N
+ODIR_2474_right.jpg,ODIR5K,Normal,N
+ODIR_2370_right.jpg,ODIR5K,Normal,N
+ODIR_4527_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3086_right.jpg,ODIR5K,Normal,N
+ODIR_2946_left.jpg,ODIR5K,Normal,N
+ODIR_1253_left.jpg,ODIR5K,Normal,N
+APTOS_image_01849.png,APTOS2019,Normal,No DR
+APTOS_image_01386.png,APTOS2019,Normal,No DR
+ACRIMA_Im526_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_4677_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01207.png,APTOS2019,Normal,No DR
+APTOS_image_01609.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02869.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01446.png,APTOS2019,Normal,No DR
+ODIR_4422_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01343.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01039.png,APTOS2019,Normal,No DR
+ORIGA_086.jpg,ORIGA,Glaucoma,1
+APTOS_image_00051.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01058.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_084.jpg,ORIGA,Normal,0
+ODIR_4167_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00148.png,APTOS2019,Normal,No DR
+ODIR_4186_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01775.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00509.png,APTOS2019,Normal,No DR
+ODIR_4125_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2744_right.jpg,ODIR5K,Normal,N
+ODIR_179_right.jpg,ODIR5K,Hypertension,H
+ODIR_3943_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2520_left.jpg,ODIR5K,Normal,N
+APTOS_image_01876.png,APTOS2019,Normal,No DR
+ODIR_2150_right.jpg,ODIR5K,Cataract,C
+APTOS_image_00544.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im201_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_132_right.jpg,ODIR5K,Others,O
+ODIR_320_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3342_left.jpg,ODIR5K,Normal,N
+ODIR_2852_right.jpg,ODIR5K,Normal,N
+ODIR_2837_left.jpg,ODIR5K,Normal,N
+ODIR_2536_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im417_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01755.png,APTOS2019,Normal,No DR
+APTOS_image_00289.png,APTOS2019,Normal,No DR
+ODIR_4058_left.jpg,ODIR5K,Others,O
+ODIR_1330_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01459.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_924_right.jpg,ODIR5K,Others,O
+ODIR_1054_left.jpg,ODIR5K,Normal,N
+ODIR_3057_left.jpg,ODIR5K,Normal,N
+ODIR_4619_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2770_left.jpg,ODIR5K,Normal,N
+ODIR_2551_left.jpg,ODIR5K,Normal,N
+APTOS_image_3 (110).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1258_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02410.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00653.png,APTOS2019,Normal,No DR
+APTOS_image_02072.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im627_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im473_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2066_left.jpg,ODIR5K,Hypertension,H
+ODIR_503_left.jpg,ODIR5K,Others,O
+APTOS_image_4 (56).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3375_right.jpg,ODIR5K,Normal,N
+ODIR_90_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00993.png,APTOS2019,Normal,No DR
+ODIR_2247_right.jpg,ODIR5K,Cataract,C
+ODIR_221_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_488_left.jpg,ODIR5K,Others,O
+ODIR_4036_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2684_right.jpg,ODIR5K,Normal,N
+APTOS_image_01741.png,APTOS2019,Normal,No DR
+APTOS_image_02057.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im173_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3229_right.jpg,ODIR5K,Normal,N
+ODIR_3388_right.jpg,ODIR5K,Normal,N
+ODIR_4399_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (50).png,APTOS2019,Normal,No DR
+ODIR_4523_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1349_left.jpg,ODIR5K,Myopia,M
+ACRIMA_Im617_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1304_right.jpg,ODIR5K,Others,O
+APTOS_image_01153.png,APTOS2019,Normal,No DR
+ODIR_4623_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (86).png,APTOS2019,Normal,No DR
+ACRIMA_Im098_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_909_left.jpg,ODIR5K,Others,O
+APTOS_image_00905.png,APTOS2019,Normal,No DR
+ODIR_3997_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_52_left.jpg,ODIR5K,Others,O
+APTOS_image_01385.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4059_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01855.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2491_left.jpg,ODIR5K,Normal,N
+ODIR_2881_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im599_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_496_right.jpg,ODIR5K,Others,O
+APTOS_image_1 (87).png,APTOS2019,Normal,No DR
+APTOS_image_02000.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4026_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02094.png,APTOS2019,Normal,No DR
+ODIR_4186_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_5 (13).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2812_left.jpg,ODIR5K,Normal,N
+ODIR_1287_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2901_right.jpg,ODIR5K,Normal,N
+ODIR_3236_right.jpg,ODIR5K,Normal,N
+ODIR_3081_left.jpg,ODIR5K,Normal,N
+ODIR_1598_right.jpg,ODIR5K,Myopia,M
+ODIR_2401_left.jpg,ODIR5K,Normal,N
+ODIR_2102_right.jpg,ODIR5K,Cataract,C
+ODIR_669_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2369_left.jpg,ODIR5K,Normal,N
+APTOS_image_02837.png,APTOS2019,Normal,No DR
+ODIR_3992_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3407_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im490_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02769.png,APTOS2019,Normal,No DR
+APTOS_image_02923.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2854_left.jpg,ODIR5K,Normal,N
+ODIR_4049_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3155_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (162).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_266_left.jpg,ODIR5K,AMD,A
+ODIR_3153_left.jpg,ODIR5K,Normal,N
+ODIR_1543_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3437_right.jpg,ODIR5K,Normal,N
+ODIR_3944_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im603_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_01504.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (132).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2757_left.jpg,ODIR5K,Normal,N
+ODIR_2884_right.jpg,ODIR5K,Normal,N
+ODIR_3121_left.jpg,ODIR5K,Normal,N
+ORIGA_053.jpg,ORIGA,Normal,0
+APTOS_image_01226.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_104.jpg,ORIGA,Normal,0
+ODIR_2744_left.jpg,ODIR5K,Normal,N
+ODIR_368_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_263.jpg,ORIGA,Normal,0
+ACRIMA_Im554_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_2614_left.jpg,ODIR5K,Normal,N
+APTOS_image_01291.png,APTOS2019,Normal,No DR
+APTOS_image_01069.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2370_left.jpg,ODIR5K,Normal,N
+ODIR_2334_right.jpg,ODIR5K,Normal,N
+APTOS_image_01909.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1222_left.jpg,ODIR5K,Glaucoma,G
+ODIR_753_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_173_right.jpg,ODIR5K,Others,O
+ODIR_4198_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1212_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1068_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01503.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_515_left.jpg,ODIR5K,Others,O
+ODIR_3112_left.jpg,ODIR5K,Normal,N
+APTOS_image_02129.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00034.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4557_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im645_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_1616_right.jpg,ODIR5K,Myopia,M
+ODIR_152_right.jpg,ODIR5K,AMD,A
+ODIR_4286_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_465.jpg,ORIGA,Glaucoma,1
+ODIR_2682_left.jpg,ODIR5K,Normal,N
+ORIGA_614.jpg,ORIGA,Normal,0
+ODIR_613_left.jpg,ODIR5K,Others,O
+ODIR_778_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_391.jpg,ORIGA,Normal,0
+APTOS_image_00614.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4645_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00919.png,APTOS2019,Normal,No DR
+ODIR_82_left.jpg,ODIR5K,Others,O
+APTOS_image_01940.png,APTOS2019,Normal,No DR
+ODIR_4055_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2134_left.jpg,ODIR5K,Cataract,C
+APTOS_image_00635.png,APTOS2019,Normal,No DR
+ORIGA_504.jpg,ORIGA,Normal,0
+ORIGA_394.jpg,ORIGA,Normal,0
+ODIR_2955_right.jpg,ODIR5K,Normal,N
+APTOS_image_01907.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3304_left.jpg,ODIR5K,Normal,N
+APTOS_image_01800.png,APTOS2019,Normal,No DR
+ODIR_2387_left.jpg,ODIR5K,Normal,N
+ODIR_553_right.jpg,ODIR5K,Cataract,C
+ODIR_2825_right.jpg,ODIR5K,Normal,N
+ODIR_1229_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_028.jpg,ORIGA,Normal,0
+ODIR_2164_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2422_left.jpg,ODIR5K,Normal,N
+APTOS_image_1 (22).png,APTOS2019,Normal,No DR
+APTOS_image_00924.png,APTOS2019,Normal,No DR
+ODIR_2361_left.jpg,ODIR5K,Normal,N
+APTOS_image_1 (93).png,APTOS2019,Normal,No DR
+ODIR_4689_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1102_left.jpg,ODIR5K,Cataract,C
+ODIR_3244_left.jpg,ODIR5K,Normal,N
+ORIGA_620.jpg,ORIGA,Normal,0
+ACRIMA_Im164_ACRIMA.jpg,ACRIMA,Normal,Normal
+APTOS_image_00525.png,APTOS2019,Normal,No DR
+ODIR_2539_right.jpg,ODIR5K,Normal,N
+APTOS_image_00587.png,APTOS2019,Normal,No DR
+ODIR_1801_left.jpg,ODIR5K,AMD,A
+ODIR_282_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1129_right.jpg,ODIR5K,Others,O
+APTOS_image_01243.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01163.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2945_right.jpg,ODIR5K,Normal,N
+ODIR_1642_left.jpg,ODIR5K,Myopia,M
+APTOS_image_02495.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_219_right.jpg,ODIR5K,Others,O
+ODIR_2610_left.jpg,ODIR5K,Normal,N
+ODIR_2358_left.jpg,ODIR5K,Normal,N
+APTOS_image_02019.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2403_right.jpg,ODIR5K,Normal,N
+ODIR_1304_left.jpg,ODIR5K,Others,O
+ODIR_4235_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4399_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_1 (121).png,APTOS2019,Normal,No DR
+ODIR_26_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1075_left.jpg,ODIR5K,AMD,A
+ODIR_801_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00387.png,APTOS2019,Normal,No DR
+ODIR_3174_left.jpg,ODIR5K,Normal,N
+APTOS_image_3 (120).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4003_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im393_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ACRIMA_Im488_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02372.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_3 (96).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02733.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_446.jpg,ORIGA,Normal,0
+ODIR_2201_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01289.png,APTOS2019,Normal,No DR
+APTOS_image_3 (159).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02032.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02337.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2196_right.jpg,ODIR5K,Cataract,C
+APTOS_image_02159.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_4 (19).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2614_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im607_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_445_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2770_right.jpg,ODIR5K,Normal,N
+ODIR_1299_left.jpg,ODIR5K,Others,O
+ODIR_713_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01836.png,APTOS2019,Normal,No DR
+ODIR_887_right.jpg,ODIR5K,Others,O
+APTOS_image_01369.png,APTOS2019,Normal,No DR
+ODIR_3102_right.jpg,ODIR5K,Normal,N
+ODIR_1371_right.jpg,ODIR5K,Glaucoma,G
+ODIR_4522_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3041_right.jpg,ODIR5K,Normal,N
+ODIR_2440_left.jpg,ODIR5K,Normal,N
+ORIGA_070.jpg,ORIGA,Normal,0
+ODIR_1207_right.jpg,ODIR5K,Others,O
+ORIGA_531.jpg,ORIGA,Normal,0
+ODIR_2422_right.jpg,ODIR5K,Normal,N
+APTOS_image_02535.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4158_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4035_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_350.jpg,ORIGA,Normal,0
+ODIR_3304_right.jpg,ODIR5K,Normal,N
+APTOS_image_02232.png,APTOS2019,Normal,No DR
+ACRIMA_Im177_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_1378_right.jpg,ODIR5K,Glaucoma,G
+ACRIMA_Im591_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_43_left.jpg,ODIR5K,Glaucoma,G
+ODIR_960_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_5 (31).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4235_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4364_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01030.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1487_left.jpg,ODIR5K,Glaucoma,G
+ODIR_913_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1170_right.jpg,ODIR5K,Others,O
+ODIR_1256_right.jpg,ODIR5K,Glaucoma,G
+ODIR_613_right.jpg,ODIR5K,Others,O
+ODIR_2806_right.jpg,ODIR5K,Normal,N
+ODIR_4106_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_347.jpg,ORIGA,Normal,0
+ODIR_3039_right.jpg,ODIR5K,Normal,N
+ODIR_2913_right.jpg,ODIR5K,Normal,N
+APTOS_image_02604.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_231_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3030_left.jpg,ODIR5K,Normal,N
+ODIR_3179_left.jpg,ODIR5K,Normal,N
+ODIR_3229_left.jpg,ODIR5K,Normal,N
+APTOS_image_00749.png,APTOS2019,Normal,No DR
+ODIR_4348_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2212_left.jpg,ODIR5K,Cataract,C
+ODIR_3268_right.jpg,ODIR5K,Normal,N
+ODIR_3006_left.jpg,ODIR5K,Normal,N
+APTOS_image_01661.png,APTOS2019,Normal,No DR
+APTOS_image_02748.png,APTOS2019,Normal,No DR
+ODIR_432_right.jpg,ODIR5K,Others,O
+ODIR_3244_right.jpg,ODIR5K,Normal,N
+APTOS_image_01758.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_696_left.jpg,ODIR5K,Others,O
+APTOS_image_01554.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2480_right.jpg,ODIR5K,Normal,N
+ODIR_1578_left.jpg,ODIR5K,Myopia,M
+APTOS_image_01611.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2229_right.jpg,ODIR5K,Cataract,C
+ODIR_4055_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_4283_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2771_left.jpg,ODIR5K,Normal,N
+APTOS_image_4 (48).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4201_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1277_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00576.png,APTOS2019,Normal,No DR
+ODIR_1519_right.jpg,ODIR5K,Myopia,M
+ODIR_3342_right.jpg,ODIR5K,Normal,N
+ORIGA_443.jpg,ORIGA,Normal,0
+ODIR_3284_right.jpg,ODIR5K,Normal,N
+ODIR_2505_right.jpg,ODIR5K,Normal,N
+APTOS_image_01275.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1362_left.jpg,ODIR5K,Glaucoma,G
+ODIR_1873_right.jpg,ODIR5K,AMD,A
+APTOS_image_00474.png,APTOS2019,Normal,No DR
+APTOS_image_00150.png,APTOS2019,Normal,No DR
+ODIR_3040_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im281_ACRIMA.jpg,ACRIMA,Normal,Normal
+ORIGA_188.jpg,ORIGA,Normal,0
+ODIR_3380_left.jpg,ODIR5K,Normal,N
+ODIR_2485_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im487_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+ODIR_291_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02699.png,APTOS2019,Normal,No DR
+ODIR_2388_left.jpg,ODIR5K,Normal,N
+APTOS_image_00359.png,APTOS2019,Normal,No DR
+ORIGA_057.jpg,ORIGA,Normal,0
+ODIR_3200_right.jpg,ODIR5K,Normal,N
+APTOS_image_01124.png,APTOS2019,Normal,No DR
+APTOS_image_3 (69).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2553_left.jpg,ODIR5K,Normal,N
+ODIR_297_right.jpg,ODIR5K,Others,O
+ODIR_2102_left.jpg,ODIR5K,Cataract,C
+APTOS_image_00516.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02258.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01404.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1879_right.jpg,ODIR5K,AMD,A
+ODIR_998_right.jpg,ODIR5K,AMD,A
+ODIR_760_left.jpg,ODIR5K,Myopia,M
+ODIR_2100_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im088_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2854_right.jpg,ODIR5K,Normal,N
+ODIR_2536_left.jpg,ODIR5K,Normal,N
+ODIR_2665_left.jpg,ODIR5K,Normal,N
+ODIR_122_left.jpg,ODIR5K,Others,O
+ODIR_3000_right.jpg,ODIR5K,Normal,N
+ODIR_2687_left.jpg,ODIR5K,Normal,N
+ODIR_2453_right.jpg,ODIR5K,Normal,N
+ODIR_4074_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3320_left.jpg,ODIR5K,Normal,N
+ODIR_21_left.jpg,ODIR5K,Others,O
+APTOS_image_02160.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3192_right.jpg,ODIR5K,Normal,N
+ODIR_2559_right.jpg,ODIR5K,Normal,N
+ODIR_2174_right.jpg,ODIR5K,Cataract,C
+ACRIMA_Im154_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3375_left.jpg,ODIR5K,Normal,N
+ODIR_1559_left.jpg,ODIR5K,Myopia,M
+ODIR_126_left.jpg,ODIR5K,AMD,A
+ODIR_2627_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im543_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02555.png,APTOS2019,Normal,No DR
+ODIR_2556_right.jpg,ODIR5K,Normal,N
+ODIR_3279_right.jpg,ODIR5K,Normal,N
+ODIR_3437_left.jpg,ODIR5K,Normal,N
+APTOS_image_02106.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2946_right.jpg,ODIR5K,Normal,N
+ODIR_1079_right.jpg,ODIR5K,Others,O
+ODIR_38_right.jpg,ODIR5K,Others,O
+ODIR_2187_left.jpg,ODIR5K,Cataract,C
+ODIR_78_right.jpg,ODIR5K,Others,O
+APTOS_image_01258.png,APTOS2019,Normal,No DR
+ODIR_1405_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2827_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im577_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02441.png,APTOS2019,Normal,No DR
+ODIR_1421_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01505.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01913.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_693_right.jpg,ODIR5K,Others,O
+ODIR_2475_left.jpg,ODIR5K,Normal,N
+ORIGA_161.jpg,ORIGA,Normal,0
+ODIR_433_left.jpg,ODIR5K,Others,O
+APTOS_image_01654.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1864_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_3 (84).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4512_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1543_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00501.png,APTOS2019,Normal,No DR
+APTOS_image_3 (14).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01007.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_310_right.jpg,ODIR5K,Others,O
+APTOS_image_00285.png,APTOS2019,Normal,No DR
+APTOS_image_01239.png,APTOS2019,Normal,No DR
+ODIR_2967_left.jpg,ODIR5K,Normal,N
+ODIR_553_left.jpg,ODIR5K,Cataract,C
+ODIR_3340_right.jpg,ODIR5K,Normal,N
+ODIR_3004_left.jpg,ODIR5K,Normal,N
+ODIR_2216_right.jpg,ODIR5K,Cataract,C
+ODIR_1652_left.jpg,ODIR5K,Myopia,M
+ODIR_528_left.jpg,ODIR5K,Others,O
+ODIR_833_right.jpg,ODIR5K,Others,O
+ODIR_3143_left.jpg,ODIR5K,Normal,N
+APTOS_image_00329.png,APTOS2019,Normal,No DR
+ODIR_3175_right.jpg,ODIR5K,Normal,N
+ODIR_4141_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_35_left.jpg,ODIR5K,Myopia,M
+APTOS_image_01304.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1468_left.jpg,ODIR5K,Cataract,C
+ODIR_2107_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01319.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00200.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02193.png,APTOS2019,Normal,No DR
+ODIR_2914_right.jpg,ODIR5K,Normal,N
+ODIR_2494_right.jpg,ODIR5K,Normal,N
+ODIR_642_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00602.png,APTOS2019,Normal,No DR
+APTOS_image_02315.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00303.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02399.png,APTOS2019,Normal,No DR
+APTOS_image_01688.png,APTOS2019,Normal,No DR
+ODIR_3115_right.jpg,ODIR5K,Normal,N
+ODIR_1248_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2905_left.jpg,ODIR5K,Normal,N
+APTOS_image_4 (33).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1971_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_501.jpg,ORIGA,Normal,0
+ODIR_4074_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3410_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im570_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02245.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01221.png,APTOS2019,Normal,No DR
+APTOS_image_02596.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_4304_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00297.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00432.png,APTOS2019,Normal,No DR
+ODIR_446_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im148_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2913_left.jpg,ODIR5K,Normal,N
+APTOS_image_02534.png,APTOS2019,Normal,No DR
+ODIR_2687_right.jpg,ODIR5K,Normal,N
+APTOS_image_1 (107).png,APTOS2019,Normal,No DR
+APTOS_image_00679.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_247_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02139.png,APTOS2019,Normal,No DR
+ODIR_705_right.jpg,ODIR5K,Others,O
+ODIR_253_right.jpg,ODIR5K,Others,O
+APTOS_image_02684.png,APTOS2019,Normal,No DR
+APTOS_image_01536.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_036.jpg,ORIGA,Glaucoma,1
+ODIR_1598_left.jpg,ODIR5K,Myopia,M
+ODIR_1865_right.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01419.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00790.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1084_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3388_left.jpg,ODIR5K,Normal,N
+ORIGA_482.jpg,ORIGA,Normal,0
+APTOS_image_01136.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_427.jpg,ORIGA,Normal,0
+ODIR_1219_left.jpg,ODIR5K,Myopia,M
+ODIR_4402_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01288.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2732_left.jpg,ODIR5K,Normal,N
+ACRIMA_Im017_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_1836_right.jpg,ODIR5K,AMD,A
+APTOS_image_02020.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_752_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01588.png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im454_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_3 (133).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00727.png,APTOS2019,Normal,No DR
+ODIR_1975_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_3 (138).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02171.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1279_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02368.png,APTOS2019,Normal,No DR
+APTOS_image_02040.png,APTOS2019,Normal,No DR
+ODIR_383_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_2 (7).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01165.png,APTOS2019,Normal,No DR
+ODIR_4578_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01444.png,APTOS2019,Normal,No DR
+ODIR_2107_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02620.png,APTOS2019,Normal,No DR
+ODIR_538_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3364_right.jpg,ODIR5K,Normal,N
+ODIR_1662_left.jpg,ODIR5K,Myopia,M
+APTOS_image_4 (3).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_566_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_822_right.jpg,ODIR5K,Others,O
+ODIR_2434_left.jpg,ODIR5K,Normal,N
+ODIR_1082_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_307_left.jpg,ODIR5K,Others,O
+ODIR_579_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2557_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im311_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_4 (36).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00628.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_178.jpg,ORIGA,Normal,0
+APTOS_image_02026.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3385_right.jpg,ODIR5K,Normal,N
+APTOS_image_01522.png,APTOS2019,Normal,No DR
+APTOS_image_02721.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2630_left.jpg,ODIR5K,Normal,N
+APTOS_image_2 (50).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1975_right.jpg,ODIR5K,Glaucoma,G
+ODIR_0_right.jpg,ODIR5K,Cataract,C
+APTOS_image_4 (59).png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2216_left.jpg,ODIR5K,Cataract,C
+APTOS_image_00844.png,APTOS2019,Normal,No DR
+ODIR_4275_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01157.png,APTOS2019,Normal,No DR
+APTOS_image_01665.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_01493.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3335_left.jpg,ODIR5K,Normal,N
+APTOS_image_01316.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00445.png,APTOS2019,Normal,No DR
+APTOS_image_00042.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2134_right.jpg,ODIR5K,Cataract,C
+ODIR_2182_right.jpg,ODIR5K,Cataract,C
+ODIR_4198_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_850_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2041_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_00631.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00814.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2241_right.jpg,ODIR5K,Cataract,C
+ODIR_4250_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01458.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2950_left.jpg,ODIR5K,Normal,N
+ODIR_4343_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (40).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02737.png,APTOS2019,Normal,No DR
+APTOS_image_01206.png,APTOS2019,Normal,No DR
+ORIGA_291.jpg,ORIGA,Normal,0
+APTOS_image_01625.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_494.jpg,ORIGA,Normal,0
+ODIR_4528_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_3 (117).png,APTOS2019,Diabetic Retinopathy,DR
+ACRIMA_Im190_ACRIMA.jpg,ACRIMA,Normal,Normal
+ORIGA_122.jpg,ORIGA,Normal,0
+ODIR_3125_right.jpg,ODIR5K,Normal,N
+ODIR_2491_right.jpg,ODIR5K,Normal,N
+ORIGA_303.jpg,ORIGA,Normal,0
+APTOS_image_01626.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_091.jpg,ORIGA,Normal,0
+ODIR_3955_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3142_right.jpg,ODIR5K,Normal,N
+ODIR_1447_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_02909.png,APTOS2019,Normal,No DR
+APTOS_image_01782.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_02564.png,APTOS2019,Normal,No DR
+ODIR_240_right.jpg,ODIR5K,Others,O
+ODIR_3053_left.jpg,ODIR5K,Normal,N
+ODIR_1528_right.jpg,ODIR5K,Myopia,M
+ODIR_2644_right.jpg,ODIR5K,Normal,N
+APTOS_image_3 (46).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_1 (67).png,APTOS2019,Normal,No DR
+ODIR_3102_left.jpg,ODIR5K,Normal,N
+ODIR_586_left.jpg,ODIR5K,Others,O
+ODIR_1062_left.jpg,ODIR5K,Cataract,C
+ODIR_2672_left.jpg,ODIR5K,Normal,N
+ODIR_1075_right.jpg,ODIR5K,AMD,A
+APTOS_image_00203.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3067_left.jpg,ODIR5K,Normal,N
+APTOS_image_1 (155).png,APTOS2019,Normal,No DR
+ODIR_2917_left.jpg,ODIR5K,Normal,N
+APTOS_image_02498.png,APTOS2019,Normal,No DR
+APTOS_image_5 (2).png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00784.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2511_left.jpg,ODIR5K,Normal,N
+APTOS_image_01565.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1318_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2464_right.jpg,ODIR5K,Normal,N
+APTOS_image_00398.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_576_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_02849.png,APTOS2019,Diabetic Retinopathy,DR
+ORIGA_389.jpg,ORIGA,Glaucoma,1
+ACRIMA_Im612_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_02863.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1035_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1138_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00859.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1061_right.jpg,ODIR5K,Others,O
+APTOS_image_02244.png,APTOS2019,Normal,No DR
+ODIR_3418_left.jpg,ODIR5K,Normal,N
+APTOS_image_02086.png,APTOS2019,Diabetic Retinopathy,DR
+APTOS_image_00976.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3385_left.jpg,ODIR5K,Normal,N
+ODIR_4560_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_156_left.jpg,ODIR5K,Others,O
+ORIGA_542.jpg,ORIGA,Normal,0
+ODIR_3953_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1295_left.jpg,ODIR5K,AMD,A
+ODIR_1035_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01432.png,APTOS2019,Normal,No DR
+ODIR_2426_right.jpg,ODIR5K,Normal,N
+APTOS_image_01122.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2485_right.jpg,ODIR5K,Normal,N
+ODIR_3192_left.jpg,ODIR5K,Normal,N
+ODIR_2699_left.jpg,ODIR5K,Normal,N
+ODIR_890_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_3045_left.jpg,ODIR5K,Normal,N
+ODIR_4233_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1222_right.jpg,ODIR5K,Glaucoma,G
+ODIR_2520_right.jpg,ODIR5K,Normal,N
+ODIR_3005_right.jpg,ODIR5K,Normal,N
+APTOS_image_02299.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_576_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_446_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01553.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_2229_left.jpg,ODIR5K,Cataract,C
+APTOS_image_00081.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_3322_right.jpg,ODIR5K,Normal,N
+ODIR_3053_right.jpg,ODIR5K,Normal,N
+ORIGA_532.jpg,ORIGA,Glaucoma,1
+APTOS_image_02514.png,APTOS2019,Normal,No DR
+APTOS_image_01513.png,APTOS2019,Normal,No DR
+ODIR_78_left.jpg,ODIR5K,Others,O
+ODIR_2455_right.jpg,ODIR5K,Normal,N
+APTOS_image_01337.png,APTOS2019,Normal,No DR
+ODIR_4629_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01583.png,APTOS2019,Normal,No DR
+ODIR_4556_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_395.jpg,ORIGA,Glaucoma,1
+ODIR_686_right.jpg,ODIR5K,Hypertension,H
+APTOS_image_02912.png,APTOS2019,Normal,No DR
+ODIR_1621_left.jpg,ODIR5K,Myopia,M
+ODIR_4286_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ORIGA_093.jpg,ORIGA,Glaucoma,1
+APTOS_image_02858.png,APTOS2019,Normal,No DR
+ODIR_1999_left.jpg,ODIR5K,Glaucoma,G
+APTOS_image_01873.png,APTOS2019,Normal,No DR
+ODIR_4220_right.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_00750.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_1528_left.jpg,ODIR5K,Myopia,M
+ODIR_541_right.jpg,ODIR5K,Diabetic Retinopathy,D
+ACRIMA_Im060_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_2953_right.jpg,ODIR5K,Normal,N
+ACRIMA_Im307_ACRIMA.jpg,ACRIMA,Normal,Normal
+ODIR_3205_left.jpg,ODIR5K,Normal,N
+ODIR_1258_left.jpg,ODIR5K,Glaucoma,G
+ODIR_2393_right.jpg,ODIR5K,Normal,N
+ORIGA_405.jpg,ORIGA,Normal,0
+ODIR_39_right.jpg,ODIR5K,Myopia,M
+ODIR_1231_right.jpg,ODIR5K,Glaucoma,G
+ODIR_3978_left.jpg,ODIR5K,Diabetic Retinopathy,D
+APTOS_image_01530.png,APTOS2019,Normal,No DR
+ODIR_2905_right.jpg,ODIR5K,Normal,N
+ODIR_4058_right.jpg,ODIR5K,Others,O
+APTOS_image_00039.png,APTOS2019,Normal,No DR
+ODIR_2440_right.jpg,ODIR5K,Normal,N
+APTOS_image_02321.png,APTOS2019,Diabetic Retinopathy,DR
+ODIR_317_left.jpg,ODIR5K,Others,O
+ACRIMA_Im423_g_ACRIMA.jpg,ACRIMA,Glaucoma,Glaucoma
+APTOS_image_00775.png,APTOS2019,Normal,No DR
+ODIR_884_left.jpg,ODIR5K,Others,O
+ODIR_4130_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_1246_left.jpg,ODIR5K,Glaucoma,G
+ORIGA_485.jpg,ORIGA,Normal,0
+ORIGA_455.jpg,ORIGA,Normal,0
+ODIR_3234_right.jpg,ODIR5K,Normal,N
+ODIR_3328_left.jpg,ODIR5K,Normal,N
+ODIR_4283_left.jpg,ODIR5K,Diabetic Retinopathy,D
+ODIR_2643_left.jpg,ODIR5K,Normal,N

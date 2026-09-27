@@ -1,0 +1,72 @@
+[
+  {
+    "epoch": 1,
+    "learning_rate": 5e-05,
+    "train_loss": 1.4110961050582735,
+    "train_accuracy": 0.5520695064558948,
+    "val_loss": 1.388077698849343,
+    "val_accuracy": 0.5658783783783784,
+    "val_macro_f1": 0.2967442830111936,
+    "seconds": 211.71024227142334
+  },
+  {
+    "epoch": 2,
+    "learning_rate": 5e-05,
+    "train_loss": 1.405897201164879,
+    "train_accuracy": 0.5478460238928442,
+    "val_loss": 1.3845776190628876,
+    "val_accuracy": 0.566722972972973,
+    "val_macro_f1": 0.3027497855529113,
+    "seconds": 224.0320384502411
+  },
+  {
+    "epoch": 3,
+    "learning_rate": 5e-05,
+    "train_loss": 1.3980205084369282,
+    "train_accuracy": 0.5582237239049113,
+    "val_loss": 1.3889673867741146,
+    "val_accuracy": 0.5760135135135135,
+    "val_macro_f1": 0.3205853562830169,
+    "seconds": 215.37354350090027
+  },
+  {
+    "epoch": 4,
+    "learning_rate": 5e-05,
+    "train_loss": 1.4033098319794655,
+    "train_accuracy": 0.5465186436587426,
+    "val_loss": 1.3781023202715694,
+    "val_accuracy": 0.5743243243243243,
+    "val_macro_f1": 0.3345580600620841,
+    "seconds": 225.03172326087952
+  },
+  {
+    "epoch": 5,
+    "learning_rate": 5e-05,
+    "train_loss": 1.3977460371105839,
+    "train_accuracy": 0.551828164595149,
+    "val_loss": 1.379004320582828,
+    "val_accuracy": 0.5692567567567568,
+    "val_macro_f1": 0.31680252241073636,
+    "seconds": 224.2195909023285
+  },
+  {
+    "epoch": 6,
+    "learning_rate": 5e-05,
+    "train_loss": 1.394637212399998,
+    "train_accuracy": 0.5538795704114878,
+    "val_loss": 1.3646623685553267,
+    "val_accuracy": 0.5734797297297297,
+    "val_macro_f1": 0.3263358101230469,
+    "seconds": 230.45063090324402
+  },
+  {
+    "epoch": 7,
+    "learning_rate": 5e-05,
+    "train_loss": 1.385114000561989,
+    "train_accuracy": 0.5489320622662001,
+    "val_loss": 1.3686740269532074,
+    "val_accuracy": 0.5675675675675675,
+    "val_macro_f1": 0.31476548306555396,
+    "seconds": 218.14692568778992
+  }
+]

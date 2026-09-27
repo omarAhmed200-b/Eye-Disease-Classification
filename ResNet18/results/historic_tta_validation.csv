@@ -1,0 +1,7 @@
+method,accuracy,macro_f1,set
+Original,0.5929,0.5057,validation
+Flip TTA,0.5988,0.5175,validation
+4-view TTA,0.6132,0.5177,validation
+8-view TTA,0.636,0.5268,validation
+Original,0.5861,0.4965,test
+4-view TTA,0.6035,0.5012,test

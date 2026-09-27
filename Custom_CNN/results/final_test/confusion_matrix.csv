@@ -1,0 +1,9 @@
+actual/predicted,AMD,Cataract,Diabetic Retinopathy,Glaucoma,Hypertension,Myopia,Normal,Others
+AMD,0,0,16,0,0,1,20,7
+Cataract,0,30,11,0,0,0,25,4
+Diabetic Retinopathy,0,20,543,5,0,9,173,35
+Glaucoma,0,10,28,90,0,9,72,12
+Hypertension,0,0,14,0,0,0,6,4
+Myopia,0,2,4,0,0,45,9,6
+Normal,0,27,170,37,0,34,632,46
+Others,0,7,87,0,0,10,78,30

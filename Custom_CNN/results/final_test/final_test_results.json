@@ -1,0 +1,163 @@
+{
+  "model": "Custom CNN",
+  "checkpoint": "/kaggle/working/Eye-Disease-Classification/checkpoints/balanced_aug_v1/best_balanced.pth",
+  "best_validation_macro_f1": 0.335527013002147,
+  "test_accuracy": 0.5785472972972973,
+  "test_macro_f1": 0.3570895789015315,
+  "test_samples": 2368,
+  "classification_report": {
+    "AMD": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 44.0
+    },
+    "Cataract": {
+      "precision": 0.3125,
+      "recall": 0.42857142857142855,
+      "f1-score": 0.3614457831325301,
+      "support": 70.0
+    },
+    "Diabetic Retinopathy": {
+      "precision": 0.6219931271477663,
+      "recall": 0.6917197452229299,
+      "f1-score": 0.6550060313630881,
+      "support": 785.0
+    },
+    "Glaucoma": {
+      "precision": 0.6818181818181818,
+      "recall": 0.4072398190045249,
+      "f1-score": 0.509915014164306,
+      "support": 221.0
+    },
+    "Hypertension": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 24.0
+    },
+    "Myopia": {
+      "precision": 0.4166666666666667,
+      "recall": 0.6818181818181818,
+      "f1-score": 0.5172413793103449,
+      "support": 66.0
+    },
+    "Normal": {
+      "precision": 0.6226600985221675,
+      "recall": 0.6680761099365751,
+      "f1-score": 0.644569097399286,
+      "support": 946.0
+    },
+    "Others": {
+      "precision": 0.20833333333333334,
+      "recall": 0.14150943396226415,
+      "f1-score": 0.16853932584269662,
+      "support": 212.0
+    },
+    "accuracy": 0.5785472972972973,
+    "macro avg": {
+      "precision": 0.35799642593601444,
+      "recall": 0.37736683981448804,
+      "f1-score": 0.3570895789015315,
+      "support": 2368.0
+    },
+    "weighted avg": {
+      "precision": 0.5580762427624375,
+      "recall": 0.5785472972972973,
+      "f1-score": 0.562416719519625,
+      "support": 2368.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      16,
+      0,
+      0,
+      1,
+      20,
+      7
+    ],
+    [
+      0,
+      30,
+      11,
+      0,
+      0,
+      0,
+      25,
+      4
+    ],
+    [
+      0,
+      20,
+      543,
+      5,
+      0,
+      9,
+      173,
+      35
+    ],
+    [
+      0,
+      10,
+      28,
+      90,
+      0,
+      9,
+      72,
+      12
+    ],
+    [
+      0,
+      0,
+      14,
+      0,
+      0,
+      0,
+      6,
+      4
+    ],
+    [
+      0,
+      2,
+      4,
+      0,
+      0,
+      45,
+      9,
+      6
+    ],
+    [
+      0,
+      27,
+      170,
+      37,
+      0,
+      34,
+      632,
+      46
+    ],
+    [
+      0,
+      7,
+      87,
+      0,
+      0,
+      10,
+      78,
+      30
+    ]
+  ],
+  "classes": [
+    "AMD",
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma",
+    "Hypertension",
+    "Myopia",
+    "Normal",
+    "Others"
+  ]
+}

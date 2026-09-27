@@ -1,0 +1,14 @@
+                      precision    recall  f1-score   support
+
+                 AMD       0.00      0.00      0.00        44
+            Cataract       0.31      0.43      0.36        70
+Diabetic Retinopathy       0.62      0.69      0.66       785
+            Glaucoma       0.68      0.41      0.51       221
+        Hypertension       0.00      0.00      0.00        24
+              Myopia       0.42      0.68      0.52        66
+              Normal       0.62      0.67      0.64       946
+              Others       0.21      0.14      0.17       212
+
+            accuracy                           0.58      2368
+           macro avg       0.36      0.38      0.36      2368
+        weighted avg       0.56      0.58      0.56      2368

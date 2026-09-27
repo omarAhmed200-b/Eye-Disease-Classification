@@ -1,0 +1,9 @@
+class,train,val,test
+AMD,192,28,54
+Cataract,238,34,68
+Diabetic Retinopathy,2878,411,824
+Glaucoma,651,93,186
+Hypertension,62,8,18
+Myopia,206,30,58
+Normal,3288,470,940
+Others,772,110,220

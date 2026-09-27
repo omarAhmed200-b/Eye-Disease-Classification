@@ -1,0 +1,9 @@
+class,precision,recall,f1,support
+AMD,0.75,0.2143,0.3333,28
+Cataract,0.6905,0.8529,0.7632,34
+Diabetic Retinopathy,0.8194,0.618,0.7046,411
+Glaucoma,0.5175,0.6344,0.57,93
+Hypertension,0,0,0,8
+Myopia,0.7941,0.9,0.8438,30
+Normal,0.6887,0.7106,0.6995,470
+Others,0.2404,0.4,0.3003,110

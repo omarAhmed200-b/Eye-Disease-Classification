@@ -1,0 +1,1 @@
+Recovered Kaggle notebook fragments uploaded by the user, preserved without modification. None contains the complete historic training notebook or the trained checkpoint. The full notebook in notebooks/ is reconstructed from logged training settings, not extracted from these fragments.
